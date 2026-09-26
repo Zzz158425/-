@@ -1,0 +1,15 @@
+{
+  "source": "D:\\个人资料\\数学建模比赛\\E题解答\\output\\q2\\P2_ANALYSIS_20260924_001\\plot_data.json",
+  "source_sha256": "8d0b50c38a9bb6bc823fd706119a05362b6d9535f4f07d09aafc689bb2307e90",
+  "script": "D:\\个人资料\\数学建模比赛\\E题解答\\code\\figures\\fig_q2_ablation.py",
+  "script_sha256": "e5fe6eddaca85074244d8da1888ce25145eb16ab36d5b29cb174a67a279882b1",
+  "common_sha256": "b9967373eb8464dd5845f15e7ae4969fc5c785c06f8208933c1b18fdc25ddd00",
+  "image": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_DELIVERY_20260924_001_ABLATION\\p2_ablation.png",
+  "image_sha256": "e2194ce439ad5eb940ff590206e6696f3c41c80f271ae39a979acaacda4a6f8d",
+  "dpi": 300,
+  "text_outside_canvas": [],
+  "details": {
+    "models": "B0/M0-M3 initial; M3 seed mean and sample SD",
+    "ensemble": false
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "language": "zh-CN",
+  "localization_note": "仅将标题、轴名与图例由英文改为中文；数值逐项复制自冻结 metrics.json，未重算任何指标。",
+  "english_original": "D:\\Visual Studio2022SharedProject\\E题解答\\figures\\q2\\P2_FINAL_TEST_20260925_001\\test_confusion_and_classes.png",
+  "frozen_source": {
+    "path": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\finalization\\P2_FINAL_TEST_20260925_001\\metrics.json",
+    "sha256": "2fae3b43805927c324af7ccb1829356910623453c196d6627550f0fd667de248"
+  },
+  "script": "D:\\Visual Studio2022SharedProject\\E题解答\\code\\figures\\fig_q2_test_confusion_zh.py",
+  "script_sha256": "0fbab5be3ee85dc6ca1e27242a95dad72b00d820c40c0f91e928cfe2792bb2f5",
+  "image": "D:\\Visual Studio2022SharedProject\\E题解答\\figures\\q2\\P2_FINAL_TEST_ZH_20260926_001\\test_confusion_and_classes.png",
+  "image_sha256": "4109430e5181dcc62f074848c4db0e5337bde106d4eb7fe7c33b2591644c8c30",
+  "svg": "D:\\Visual Studio2022SharedProject\\E题解答\\figures\\q2\\P2_FINAL_TEST_ZH_20260926_001\\test_confusion_and_classes.svg",
+  "svg_sha256": "8b7ee8496e21d222fd007308b0322d13617dca68ae4401a06508680a11c18e73",
+  "svg_text_editable": true,
+  "dpi": 230,
+  "training": false,
+  "inference": false,
+  "metrics_recomputed": false,
+  "displayed_values": {
+    "confusion_matrix": [
+      [
+        144,
+        30,
+        33
+      ],
+      [
+        30,
+        73,
+        55
+      ],
+      [
+        27,
+        69,
+        266
+      ]
+    ],
+    "per_class_precision": [
+      0.7164179104477612,
+      0.42441860465116277,
+      0.751412429378531
+    ],
+    "per_class_recall": [
+      0.6956521739130435,
+      0.4620253164556962,
+      0.7348066298342542
+    ],
+    "per_class_f1": [
+      0.7058823529411765,
+      0.44242424242424244,
+      0.7430167597765364
+    ]
+  }
+}

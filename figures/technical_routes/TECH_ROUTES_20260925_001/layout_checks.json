@@ -1,0 +1,123 @@
+{
+  "accepted": true,
+  "figures": [
+    {
+      "figure": "q1_technical_route",
+      "nodes": 10,
+      "editable_texts": 62,
+      "connectors": 13,
+      "text_inside_nodes": true,
+      "no_text_overlap": true,
+      "connectors_avoid_nodes_and_text": true,
+      "canvas": [
+        1600,
+        1690
+      ]
+    },
+    {
+      "figure": "q2_technical_route",
+      "nodes": 15,
+      "editable_texts": 80,
+      "connectors": 18,
+      "text_inside_nodes": true,
+      "no_text_overlap": true,
+      "connectors_avoid_nodes_and_text": true,
+      "canvas": [
+        1600,
+        2050
+      ]
+    },
+    {
+      "figure": "q3_technical_route",
+      "nodes": 13,
+      "editable_texts": 79,
+      "connectors": 13,
+      "text_inside_nodes": true,
+      "no_text_overlap": true,
+      "connectors_avoid_nodes_and_text": true,
+      "canvas": [
+        1600,
+        2070
+      ]
+    },
+    {
+      "figure": "overall_technical_route",
+      "nodes": 16,
+      "editable_texts": 67,
+      "connectors": 16,
+      "text_inside_nodes": true,
+      "no_text_overlap": true,
+      "connectors_avoid_nodes_and_text": true,
+      "canvas": [
+        1800,
+        1530
+      ]
+    }
+  ],
+  "exports": [
+    {
+      "name": "q1_technical_route",
+      "native_text_count": 62,
+      "embedded_images": 0,
+      "svg": {
+        "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\technical_routes\\TECH_ROUTES_20260925_001\\q1_technical_route.svg",
+        "bytes": 27278,
+        "sha256": "037b60170ccc782cb3e085d8d1526c8a92adef8cf7e9bc74061675d798532f9f"
+      },
+      "png": {
+        "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\technical_routes\\TECH_ROUTES_20260925_001\\q1_technical_route.png",
+        "bytes": 710675,
+        "sha256": "abca922abc8aa6a10595bd0e526f7094caabf62b0b90553245c3715dd570a896"
+      }
+    },
+    {
+      "name": "q2_technical_route",
+      "native_text_count": 80,
+      "embedded_images": 0,
+      "svg": {
+        "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\technical_routes\\TECH_ROUTES_20260925_001\\q2_technical_route.svg",
+        "bytes": 36199,
+        "sha256": "1ac288bf0857ca8fbb32bd8a4888a6e23d167d773e4122c5f23a08739d1c5e39"
+      },
+      "png": {
+        "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\technical_routes\\TECH_ROUTES_20260925_001\\q2_technical_route.png",
+        "bytes": 960290,
+        "sha256": "d74661754c6967d55a6bc3e50b5c2cc49c5ba7aa23b25c6c05c49d36ffbb5786"
+      }
+    },
+    {
+      "name": "q3_technical_route",
+      "native_text_count": 79,
+      "embedded_images": 0,
+      "svg": {
+        "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\technical_routes\\TECH_ROUTES_20260925_001\\q3_technical_route.svg",
+        "bytes": 33689,
+        "sha256": "b27c7fef18bfd35dbc45781fd50c0a57174f67cac597d8dfdf8ab302f9d7ab42"
+      },
+      "png": {
+        "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\technical_routes\\TECH_ROUTES_20260925_001\\q3_technical_route.png",
+        "bytes": 1046042,
+        "sha256": "329987159d9deb5421291311d0fa9dd64db5b1f5cefa55444406fa879b376f1a"
+      }
+    },
+    {
+      "name": "overall_technical_route",
+      "native_text_count": 67,
+      "embedded_images": 0,
+      "svg": {
+        "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\technical_routes\\TECH_ROUTES_20260925_001\\overall_technical_route.svg",
+        "bytes": 32780,
+        "sha256": "a802b2969f54ee6deda63a4d78e9f99f6adca99066a191a78e02afe99dc776e6"
+      },
+      "png": {
+        "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\technical_routes\\TECH_ROUTES_20260925_001\\overall_technical_route.png",
+        "bytes": 891687,
+        "sha256": "9ced325a18d29d5aaafe5021c75107b905db1f945d18a4cf30f23485520c2139"
+      }
+    }
+  ],
+  "old_figure_count": 166,
+  "old_figures_unchanged": true,
+  "sources_unchanged": true,
+  "visual_inspection_record": "visual_review.json_written_only_after_actual_image_inspection"
+}

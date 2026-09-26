@@ -1,0 +1,16 @@
+{
+  "language": "zh-CN",
+  "note": "图内文字为中文；本文件仅补记 PNG / SVG 的路径与 SHA256，未重绘、未改数值。",
+  "script": "D:\\Visual Studio2022SharedProject\\E题解答\\code\\stage6\\optimization_figure.py",
+  "script_sha256": "5ca723f1942664381670a0c0838295a455072a26c0e2b5f0207bae914a5b1135",
+  "image": "D:\\Visual Studio2022SharedProject\\E题解答\\figures\\stage6\\S6_OPTIMIZATION_20260926_001\\optimization_comparison_print.png",
+  "image_sha256": "fcade493281fdb6a0f8e8bcfe9e3123818066e47b806adbe11aa86e587457900",
+  "svg": "D:\\Visual Studio2022SharedProject\\E题解答\\figures\\stage6\\S6_OPTIMIZATION_20260926_001\\optimization_comparison_print.svg",
+  "svg_sha256": "defd791c589341047585cfd122945ed12e140e9fb976b5d377870e5e2a4ea441",
+  "svg_text_editable": true,
+  "dpi": 300,
+  "training": false,
+  "inference": false,
+  "metrics_recomputed": false,
+  "source_metrics": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\q2_experiments\\P2_OPTIMIZATION_COMPARISON_20260926_001\\summary.json"
+}

@@ -1,0 +1,26 @@
+{
+  "inputs": [
+    {
+      "path": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\q3\\P3_A4_20260924_001\\p3_predictions_explanations.csv",
+      "sha256": "8fceb43021b50a2bc3c80f9026d2baa07d01bca2dc93a17fd566b73d74ab98a2"
+    },
+    {
+      "path": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\q3\\P3_A4_20260924_001\\evidence_map.jsonl",
+      "sha256": "d002f8485d782693c591153330a65e38b467feb4362ef271623c7fafca5a091a"
+    }
+  ],
+  "details": {
+    "scope": "all 20 attachment-4 samples; distribution only",
+    "no_accuracy": true,
+    "no_ground_truth": true,
+    "polarity_counts": {
+      "Negative": 7,
+      "Neutral": 4,
+      "Positive": 9
+    }
+  },
+  "dpi": 300,
+  "svg": "D:\\Visual Studio2022SharedProject\\E题解答\\figures\\q3\\P3_A4_RESULTS_20260926_001\\p3_a4_predictions.svg",
+  "svg_sha256": "4ab12af76e56e5a25ccd3877446e83d76682acdab9dbe6c91dc6d443af3747af",
+  "svg_text_editable": true
+}

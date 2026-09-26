@@ -1,0 +1,50 @@
+{
+  "inputs": [
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\output\\q1\\P1_FULL_20260923_001\\samples\\-mJ2ud6oKI8__6\\alignment_map.json",
+      "sha256": "1fb7f99c50fbc36c3717ab6cc783d5ebce9195f8a714e4941477b91a64df953b"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\output\\q1\\P1_FULL_20260923_001\\samples\\-mJ2ud6oKI8__6\\media_report.json",
+      "sha256": "ec48ebb48f184b8d48d6066716e49bcb25dc6e6218d3a18b392e57c7fb9950b6"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\output\\q1\\P1_FULL_20260923_001\\samples\\-mJ2ud6oKI8__6\\frame_manifest.csv",
+      "sha256": "9055c42e2d2c24b94c51ab23faa3376dfe1a9bfcb13a39570fa8352bb518a781"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\output\\q1\\P1_FULL_20260923_001\\samples\\-mJ2ud6oKI8__6\\raw_audio.npz",
+      "sha256": "44660c09a383e38a92d723edd4c699180936f160aa656188a4efdb9e08c7f6ab"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\output\\q1\\P1_FULL_20260923_001\\samples\\-mJ2ud6oKI8__6\\raw_visual.npz",
+      "sha256": "f22c22cc81dc31affd16b2831e894ec4a479d9622cc8cbe35c1e913b5094bffc"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\output\\q1\\P1_FULL_20260923_001\\samples\\-mJ2ud6oKI8__6\\joint_features.npz",
+      "sha256": "0f2ba445df82a9e4b2594c116a9134880cafe628916cc51c98e7679a4debabf2"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\output\\q1\\P1_FULL_20260923_001\\samples\\-mJ2ud6oKI8__6\\media\\audio_16k_mono.wav",
+      "sha256": "46baa99b6fee0355127b27f2ebc0e96d37e1d49759e4673c5942cd583c60d138"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\output\\q1\\P1_FULL_20260923_001\\samples\\-mJ2ud6oKI8__6\\evidence_frames\\frame_000000.png",
+      "sha256": "dd7008411ca97842ed9839a4e5922c958e8fef3c98377057197f9e361edd0088"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\output\\q1\\P1_FULL_20260923_001\\samples\\-mJ2ud6oKI8__6\\evidence_frames\\frame_000033.png",
+      "sha256": "c29464f5b9ddcfbb06470da3892da42c28369ae10f904e17068fb9f5a096ef70"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\output\\q1\\P1_FULL_20260923_001\\samples\\-mJ2ud6oKI8__6\\evidence_frames\\frame_000066.png",
+      "sha256": "d9182bdde65dc3c2f00791d2652a355338e8c57b8ec6b57cb43eb198d5afba1e"
+    }
+  ],
+  "details": {
+    "sample_id": "-mJ2ud6oKI8$_$6",
+    "selection": "pre-registered pilot case; not chosen by labels or prediction",
+    "meaning": "conditional assignment only; text vector norm is not sentiment; waveform display decimated by 8"
+  },
+  "dpi": 300
+}

@@ -1,0 +1,26 @@
+{
+  "run": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\q2\\P2_A3_20260924_001",
+  "script": "D:\\Visual Studio2022SharedProject\\E题解答\\code\\figures\\fig_q2_a3_predictions.py",
+  "script_sha256": "abf98785cebe19a2134a5cc3a4f68cdc8458ff864f1b9e3e31eaa2e24de8d7c5",
+  "image": "D:\\Visual Studio2022SharedProject\\E题解答\\figures\\q2\\P2_A3_PREDICTIONS_20260926_001\\p2_a3_predictions.png",
+  "image_sha256": "f4e993560cf06b745099d44366938d2bbbca99c5a540f7963576abe4881b902a",
+  "svg": "D:\\Visual Studio2022SharedProject\\E题解答\\figures\\q2\\P2_A3_PREDICTIONS_20260926_001\\p2_a3_predictions.svg",
+  "svg_sha256": "8030c653fdb49b62ababf4898de84fa49dbed7e1185f50b83400c72b69ec7672",
+  "svg_text_editable": true,
+  "dpi": 300,
+  "details": {
+    "samples": 30,
+    "polarity_counts": {
+      "Negative": 7,
+      "Neutral": 7,
+      "Positive": 16
+    },
+    "sign_conflict_count": 8,
+    "audio_zero_ambiguous": 27,
+    "text_completeness_unknown": 30,
+    "native_missing_mask_unavailable": 30,
+    "labels_available": false,
+    "accuracy_reported": false,
+    "position_unit": "stored slot; not word/time/frame ground truth"
+  }
+}

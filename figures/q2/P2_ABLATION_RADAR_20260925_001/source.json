@@ -1,0 +1,142 @@
+{
+  "source": "D:\\个人资料\\数学建模比赛\\E题解答\\output\\q2\\P2_ANALYSIS_20260924_001\\plot_data.json",
+  "source_sha256": "8d0b50c38a9bb6bc823fd706119a05362b6d9535f4f07d09aafc689bb2307e90",
+  "script": "D:\\个人资料\\数学建模比赛\\E题解答\\code\\figures\\fig_q2_ablation_radar.py",
+  "script_sha256": "8fb4824e9fb3409f886f137ae6bfd6467c177300b2e07fdef085b0554465a6d6",
+  "common_sha256": "5e93934d2e9be8901176984b5cae678f6dc9b24efbdf3a7b2b1127b6b823964f",
+  "image": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_ABLATION_RADAR_20260925_001\\p2_ablation_radar.png",
+  "image_sha256": "c36a37db26dd3c6d34c73b49fc0f1a4e5446971360c04d923712a49d0e14603a",
+  "svg": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_ABLATION_RADAR_20260925_001\\p2_ablation_radar.svg",
+  "svg_sha256": "7937dd6e0ec0688295e6754702db171fd6cb0dd1810dbe9da643c10453aa600e",
+  "svg_text_editable": true,
+  "dpi": 300,
+  "text_outside_canvas": [],
+  "details": {
+    "metrics": [
+      "clean_macro_f1",
+      "clean_mae",
+      "mean_43_macro_f1",
+      "mean_43_mae"
+    ],
+    "mae_transform": "1/(1+MAE)",
+    "radial_limits": [
+      0,
+      1
+    ],
+    "axis_direction": "higher_is_better",
+    "normalization": "no_per_axis_minmax",
+    "population": "original_validation_728",
+    "scenario_mean": "equal_weight_43_including_clean",
+    "test_results_used": false,
+    "fit_calls": 0,
+    "original_coordinates": [
+      {
+        "model_key": "B0",
+        "raw": {
+          "clean_macro_f1": 0.4243744084285139,
+          "clean_mae": 0.6372222249318364,
+          "mean_43_macro_f1": 0.425582886282276,
+          "mean_43_mae": 0.6533948300686091
+        },
+        "radar_score": [
+          0.4243744084285139,
+          0.6107906335327409,
+          0.425582886282276,
+          0.6048162131718436
+        ]
+      },
+      {
+        "model_key": "M0",
+        "raw": {
+          "clean_macro_f1": 0.5771976070151494,
+          "clean_mae": 0.6115168568895359,
+          "mean_43_macro_f1": 0.5578278336530256,
+          "mean_43_mae": 0.635709618443993
+        },
+        "radar_score": [
+          0.5771976070151494,
+          0.6205333786766257,
+          0.5578278336530256,
+          0.6113554562033287
+        ]
+      },
+      {
+        "model_key": "M1",
+        "raw": {
+          "clean_macro_f1": 0.5758135776887648,
+          "clean_mae": 0.6146412960657911,
+          "mean_43_macro_f1": 0.5559889363836019,
+          "mean_43_mae": 0.6379248658604659
+        },
+        "radar_score": [
+          0.5758135776887648,
+          0.6193326049795603,
+          0.5559889363836019,
+          0.6105286151051018
+        ]
+      },
+      {
+        "model_key": "M2",
+        "raw": {
+          "clean_macro_f1": 0.5651732137189227,
+          "clean_mae": 0.5931481574358198,
+          "mean_43_macro_f1": 0.5484939171812061,
+          "mean_43_mae": 0.6184172161953413
+        },
+        "radar_score": [
+          0.5651732137189227,
+          0.6276880121491684,
+          0.5484939171812061,
+          0.6178876435526629
+        ]
+      },
+      {
+        "model_key": "M3",
+        "raw": {
+          "clean_macro_f1": 0.6078043926529604,
+          "clean_mae": 0.5875354733431307,
+          "mean_43_macro_f1": 0.5792625704127812,
+          "mean_43_mae": 0.6169489845917033
+        },
+        "radar_score": [
+          0.6078043926529604,
+          0.6299071843063373,
+          0.5792625704127812,
+          0.6184487015541251
+        ]
+      }
+    ],
+    "seed_mean_raw": [
+      0.5723228772121547,
+      0.5903141910029871,
+      0.5568451044186468,
+      0.6142077018716486
+    ],
+    "seed_sample_sd_raw": [
+      0.0313201136082663,
+      0.004434407785934988,
+      0.0214404943202866,
+      0.0043955211524299
+    ],
+    "seed_band_lower_mapped": [
+      0.5410027636038884,
+      0.6270580834868996,
+      0.5354046100983602,
+      0.617816637070371
+    ],
+    "seed_band_upper_mapped": [
+      0.6036429908204209,
+      0.6305648199710574,
+      0.5782855987389334,
+      0.6211904792230036
+    ],
+    "seed_mean_mapping": "transform_of_raw_mean_not_mean_of_transformed_scores",
+    "band": "mapped_raw_mean_plus_minus_sample_sd_not_confidence_interval",
+    "ensemble": false,
+    "original_csv": {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\output\\q2\\P2_ANALYSIS_20260924_001\\ablation_metrics.csv",
+      "bytes": 3058,
+      "sha256": "fe2df59203904c138955f45460d49121570add34fc5a8b87bfef26a414d62dc3"
+    }
+  }
+}

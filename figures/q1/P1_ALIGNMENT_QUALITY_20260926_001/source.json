@@ -1,0 +1,23 @@
+{
+  "inputs": [
+    {
+      "path": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\q1\\P1_FULL_VERIFY_20260923_001\\summary.json",
+      "sha256": "abb9b9d6a1a85e5e28139df80aabaf85c8ea1ca217fc4939cee264c34969203a"
+    },
+    {
+      "path": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\q1\\P1_FULL_VERIFY_20260923_001\\coverage_100.csv",
+      "sha256": "b15ce905f55a3b8cec30ca4a306dce2fedc83dc98cb90e615192d47de75ea204"
+    }
+  ],
+  "details": {
+    "scope": "all 100 samples",
+    "meaning": "nominal union coverage is a geometric ratio over candidate intervals, not accuracy",
+    "no_accuracy_reported": true,
+    "manual_boundary_error_s": null,
+    "semantic_status": "unknown"
+  },
+  "dpi": 300,
+  "svg": "D:\\Visual Studio2022SharedProject\\E题解答\\figures\\q1\\P1_ALIGNMENT_QUALITY_20260926_001\\fig_q1_alignment_quality.svg",
+  "svg_sha256": "24b3201d01b2d010db12fe78ce650d3f4a16b64462cc38848ffb5a48ba12419d",
+  "svg_text_editable": true
+}

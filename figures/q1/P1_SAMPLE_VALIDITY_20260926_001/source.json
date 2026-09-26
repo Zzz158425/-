@@ -1,0 +1,27 @@
+{
+  "inputs": [
+    {
+      "path": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\q1\\P1_FULL_VERIFY_20260923_001\\summary.json",
+      "sha256": "abb9b9d6a1a85e5e28139df80aabaf85c8ea1ca217fc4939cee264c34969203a"
+    },
+    {
+      "path": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\q1\\P1_FULL_VERIFY_20260923_001\\coverage_100.csv",
+      "sha256": "b15ce905f55a3b8cec30ca4a306dce2fedc83dc98cb90e615192d47de75ea204"
+    }
+  ],
+  "details": {
+    "scope": "all 100 samples; tiers are descriptive bins of the extractor success fraction",
+    "no_new_threshold": true,
+    "meaning": "face detection availability only; not semantic accuracy and not sentiment",
+    "tier_edges": [
+      0.0,
+      0.9,
+      0.9999,
+      1.0
+    ]
+  },
+  "dpi": 300,
+  "svg": "D:\\Visual Studio2022SharedProject\\E题解答\\figures\\q1\\P1_SAMPLE_VALIDITY_20260926_001\\fig_q1_sample_validity.svg",
+  "svg_sha256": "14cd236ab92ba241279bc01090a54b6f2e13fa63089dd939a2ffceef0fcacd72",
+  "svg_text_editable": true
+}

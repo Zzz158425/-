@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1152pt" height="1216.8pt" viewBox="0 0 1152 1216.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 1216.8 
+L 1152 1216.8 
+L 1152 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 46.08 30.24 
+L 51.84 30.24 
+L 51.84 64.8 
+L 46.08 64.8 
+z
+" clip-path="url(#pd57c6c58ca)" style="fill: #237d75"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 46.08 1111.68 
+L 1105.92 1111.68 
+" clip-path="url(#pd57c6c58ca)" style="fill: none; stroke: #cbd2d6; stroke-width: 0.85; stroke-linecap: square"/>
+   </g>
+   <g id="connector-001">
+    <path d="M 576 244.512 
+L 576 289.867047 
+" clip-path="url(#pd57c6c58ca)" style="fill: none; stroke: #237d75; stroke-width: 1.55; stroke-linecap: round"/>
+    <path d="M 578.6 284.667047 
+L 576 289.867047 
+L 573.4 284.667047 
+z
+" clip-path="url(#pd57c6c58ca)" style="fill: #237d75; stroke: #237d75; stroke-width: 1.55; stroke-linecap: round"/>
+   </g>
+   <g id="connector-002">
+    <path d="M 576 387.072 
+L 576 426.96 
+L 169.92 426.96 
+L 169.92 436.027047 
+" clip-path="url(#pd57c6c58ca)" style="fill: none; stroke: #237d75; stroke-width: 1.55; stroke-linecap: round"/>
+    <path d="M 172.52 430.827047 
+L 169.92 436.027047 
+L 167.32 430.827047 
+z
+" clip-path="url(#pd57c6c58ca)" style="fill: #237d75; stroke: #237d75; stroke-width: 1.55; stroke-linecap: round"/>
+   </g>
+   <g id="connector-003">
+    <path d="M 576 387.072 
+L 576 426.96 
+L 440.64 426.96 
+L 440.64 436.027047 
+" clip-path="url(#pd57c6c58ca)" style="fill: none; stroke: #237d75; stroke-width: 1.55; stroke-linecap: round"/>
+    <path d="M 443.24 430.827047 
+L 440.64 436.027047 
+L 438.04 430.827047 
+z
+" clip-path="url(#pd57c6c58ca)" style="fill: #237d75; stroke: #237d75; stroke-width: 1.55; stroke-linecap: round"/>
+   </g>
+   <g id="connector-004">
+    <path d="M 576 387.072 
+L 576 426.96 
+L 711.36 426.96 
+L 711.36 436.027047 
+" clip-path="url(#pd57c6c58ca)" style="fill: none; stroke: #237d75; stroke-width: 1.55; stroke-linecap: round"/>
+    <path d="M 713.96 430.827047 
+L 711.36 436.027047 
+L 708.76 430.827047 
+z
+" clip-path="url(#pd57c6c58ca)" style="fill: #237d75; stroke: #237d75; stroke-width: 1.55; stroke-linecap: round"/>
+   </g>
+   <g id="connector-005">
+    <path d="M 576 387.072 
+L 576 426.96 
+L 982.08 426.96 
+L 982.08 436.027047 
+" clip-path="url(#pd57c6c58ca)" style="fill: none; stroke: #237d75; stroke-width: 1.55; stroke-linecap: round"/>
+    <path d="M 984.68 430.827047 
+L 982.08 436.027047 
+L 979.48 430.827047 
+z
+" clip-path="url(#pd57c6c58ca)" style="fill: #237d75; stroke: #237d75; stroke-width: 1.55; stroke-linecap: round"/>
+   </g>
+   <g id="connector-006">
+    <path d="M 169.92 604.368 
+L 169.92 617.76 
+L 576 617.76 
+L 576 664.267047 
+" clip-path="url(#pd57c6c58ca)" style="fill: none; stroke: #237d75; stroke-width: 1.55; stroke-linecap: round"/>
+    <path d="M 578.6 659.067047 
+L 576 664.267047 
+L 573.4 659.067047 
+z
+" clip-path="url(#pd57c6c58ca)" style="fill: #237d75; stroke: #237d75; stroke-width: 1.55; stroke-linecap: round"/>
+   </g>
+   <g id="connector-007">
+    <path d="M 440.64 604.368 
+L 440.64 617.76 
+L 576 617.76 
+L 576 664.267047 
+" clip-path="url(#pd57c6c58ca)" style="fill: none; stroke: #237d75; stroke-width: 1.55; stroke-linecap: round"/>
+    <path d="M 578.6 659.067047 
+L 576 664.267047 
+L 573.4 659.067047 
+z
+" clip-path="url(#pd57c6c58ca)" style="fill: #237d75; stroke: #237d75; stroke-width: 1.55; stroke-linecap: round"/>
+   </g>
+   <g id="connector-008">
+    <path d="M 711.36 604.368 
+L 711.36 617.76 
+L 576 617.76 
+L 576 664.267047 
+" clip-path="url(#pd57c6c58ca)" style="fill: none; stroke: #237d75; stroke-width: 1.55; stroke-linecap: round"/>
+    <path d="M 578.6 659.067047 
+L 576 664.267047 
+L 573.4 659.067047 
+z
+" clip-path="url(#pd57c6c58ca)" style="fill: #237d75; stroke: #237d75; stroke-width: 1.55; stroke-linecap: round"/>
+   </g>
+   <g id="connector-009">
+    <path d="M 982.08 604.368 
+L 982.08 617.76 
+L 576 617.76 
+L 576 664.267047 
+" clip-path="url(#pd57c6c58ca)" style="fill: none; stroke: #237d75; stroke-width: 1.55; stroke-linecap: round"/>
+    <path d="M 578.6 659.067047 
+L 576 664.267047 
+L 573.4 659.067047 
+z
+" clip-path="url(#pd57c6c58ca)" style="fill: #237d75; stroke: #237d75; stroke-width: 1.55; stroke-linecap: round"/>
+   </g>
+   <g id="connector-010">
+    <path d="M 576 785.952 
+L 576 824.4 
+L 305.28 824.4 
+L 305.28 833.467047 
+" clip-path="url(#pd57c6c58ca)" style="fill: none; stroke: #237d75; stroke-width: 1.55; stroke-linecap: round"/>
+    <path d="M 307.88 828.267047 
+L 305.28 833.467047 
+L 302.68 828.267047 
+z
+" clip-path="url(#pd57c6c58ca)" style="fill: #237d75; stroke: #237d75; stroke-width: 1.55; stroke-linecap: round"/>
+   </g>
+   <g id="connector-011">
+    <path d="M 576 785.952 
+L 576 824.4 
+L 846.72 824.4 
+L 846.72 833.467047 
+" clip-path="url(#pd57c6c58ca)" style="fill: none; stroke: #237d75; stroke-width: 1.55; stroke-linecap: round"/>
+    <path d="M 849.32 828.267047 
+L 846.72 833.467047 
+L 844.12 828.267047 
+z
+" clip-path="url(#pd57c6c58ca)" style="fill: #237d75; stroke: #237d75; stroke-width: 1.55; stroke-linecap: round"/>
+   </g>
+   <g id="connector-012">
+    <path d="M 305.28 955.152 
+L 305.28 964.8 
+L 576 964.8 
+L 576 1003.387047 
+" clip-path="url(#pd57c6c58ca)" style="fill: none; stroke: #237d75; stroke-width: 1.55; stroke-linecap: round"/>
+    <path d="M 578.6 998.187047 
+L 576 1003.387047 
+L 573.4 998.187047 
+z
+" clip-path="url(#pd57c6c58ca)" style="fill: #237d75; stroke: #237d75; stroke-width: 1.55; stroke-linecap: round"/>
+   </g>
+   <g id="connector-013">
+    <path d="M 846.72 955.152 
+L 846.72 964.8 
+L 576 964.8 
+L 576 1003.387047 
+" clip-path="url(#pd57c6c58ca)" style="fill: none; stroke: #237d75; stroke-width: 1.55; stroke-linecap: round"/>
+    <path d="M 578.6 998.187047 
+L 576 1003.387047 
+L 573.4 998.187047 
+z
+" clip-path="url(#pd57c6c58ca)" style="fill: #237d75; stroke: #237d75; stroke-width: 1.55; stroke-linecap: round"/>
+   </g>
+   <g id="q1-input-box">
+    <path d="M 50.4 149.04 
+L 1101.6 149.04 
+Q 1105.92 149.04 1105.92 153.36 
+L 1105.92 240.192 
+Q 1105.92 244.512 1101.6 244.512 
+L 50.4 244.512 
+Q 46.08 244.512 46.08 240.192 
+L 46.08 153.36 
+Q 46.08 149.04 50.4 149.04 
+z
+" clip-path="url(#pd57c6c58ca)" style="fill: #eff7f5; stroke: #237d75; stroke-width: 1.25; stroke-linejoin: miter"/>
+   </g>
+   <g id="q1-media-box">
+    <path d="M 50.4 291.6 
+L 1101.6 291.6 
+Q 1105.92 291.6 1105.92 295.92 
+L 1105.92 382.752 
+Q 1105.92 387.072 1101.6 387.072 
+L 50.4 387.072 
+Q 46.08 387.072 46.08 382.752 
+L 46.08 295.92 
+Q 46.08 291.6 50.4 291.6 
+z
+" clip-path="url(#pd57c6c58ca)" style="fill: #eff7f5; stroke: #237d75; stroke-width: 1.25; stroke-linejoin: miter"/>
+   </g>
+   <g id="q1-text-box">
+    <path d="M 50.4 437.76 
+L 289.44 437.76 
+Q 293.76 437.76 293.76 442.08 
+L 293.76 600.048 
+Q 293.76 604.368 289.44 604.368 
+L 50.4 604.368 
+Q 46.08 604.368 46.08 600.048 
+L 46.08 442.08 
+Q 46.08 437.76 50.4 437.76 
+z
+" clip-path="url(#pd57c6c58ca)" style="fill: #fcf2f5; stroke: #a34e69; stroke-width: 1.25; stroke-linejoin: miter"/>
+   </g>
+   <g id="q1-align-box">
+    <path d="M 321.12 437.76 
+L 560.16 437.76 
+Q 564.48 437.76 564.48 442.08 
+L 564.48 600.048 
+Q 564.48 604.368 560.16 604.368 
+L 321.12 604.368 
+Q 316.8 604.368 316.8 600.048 
+L 316.8 442.08 
+Q 316.8 437.76 321.12 437.76 
+z
+" clip-path="url(#pd57c6c58ca)" style="fill: #eff7f5; stroke: #237d75; stroke-width: 1.25; stroke-linejoin: miter"/>
+   </g>
+   <g id="q1-audio-box">
+    <path d="M 591.84 437.76 
+L 830.88 437.76 
+Q 835.2 437.76 835.2 442.08 
+L 835.2 600.048 
+Q 835.2 604.368 830.88 604.368 
+L 591.84 604.368 
+Q 587.52 604.368 587.52 600.048 
+L 587.52 442.08 
+Q 587.52 437.76 591.84 437.76 
+z
+" clip-path="url(#pd57c6c58ca)" style="fill: #f0f8f3; stroke: #398365; stroke-width: 1.25; stroke-linejoin: miter"/>
+   </g>
+   <g id="q1-vision-box">
+    <path d="M 862.56 437.76 
+L 1101.6 437.76 
+Q 1105.92 437.76 1105.92 442.08 
+L 1105.92 600.048 
+Q 1105.92 604.368 1101.6 604.368 
+L 862.56 604.368 
+Q 858.24 604.368 858.24 600.048 
+L 858.24 442.08 
+Q 858.24 437.76 862.56 437.76 
+z
+" clip-path="url(#pd57c6c58ca)" style="fill: #eff6fb; stroke: #3978a5; stroke-width: 1.25; stroke-linejoin: miter"/>
+   </g>
+   <g id="q1-aggregate-box">
+    <path d="M 50.4 666 
+L 1101.6 666 
+Q 1105.92 666 1105.92 670.32 
+L 1105.92 781.632 
+Q 1105.92 785.952 1101.6 785.952 
+L 50.4 785.952 
+Q 46.08 785.952 46.08 781.632 
+L 46.08 670.32 
+Q 46.08 666 50.4 666 
+z
+" clip-path="url(#pd57c6c58ca)" style="fill: #eff7f5; stroke: #237d75; stroke-width: 1.25; stroke-linejoin: miter"/>
+   </g>
+   <g id="q1-quality-box">
+    <path d="M 50.4 835.2 
+L 560.16 835.2 
+Q 564.48 835.2 564.48 839.52 
+L 564.48 950.832 
+Q 564.48 955.152 560.16 955.152 
+L 50.4 955.152 
+Q 46.08 955.152 46.08 950.832 
+L 46.08 839.52 
+Q 46.08 835.2 50.4 835.2 
+z
+" clip-path="url(#pd57c6c58ca)" style="fill: #eff7f5; stroke: #237d75; stroke-width: 1.25; stroke-linejoin: miter"/>
+   </g>
+   <g id="q1-audit-box">
+    <path d="M 591.84 835.2 
+L 1101.6 835.2 
+Q 1105.92 835.2 1105.92 839.52 
+L 1105.92 950.832 
+Q 1105.92 955.152 1101.6 955.152 
+L 591.84 955.152 
+Q 587.52 955.152 587.52 950.832 
+L 587.52 839.52 
+Q 587.52 835.2 591.84 835.2 
+z
+" clip-path="url(#pd57c6c58ca)" style="fill: #f5f7f8; stroke: #626e77; stroke-width: 1.25; stroke-linejoin: miter"/>
+   </g>
+   <g id="q1-delivery-box">
+    <path d="M 50.4 1005.12 
+L 1101.6 1005.12 
+Q 1105.92 1005.12 1105.92 1009.44 
+L 1105.92 1096.272 
+Q 1105.92 1100.592 1101.6 1100.592 
+L 50.4 1100.592 
+Q 46.08 1100.592 46.08 1096.272 
+L 46.08 1009.44 
+Q 46.08 1005.12 50.4 1005.12 
+z
+" clip-path="url(#pd57c6c58ca)" style="fill: #eff7f5; stroke: #237d75; stroke-width: 1.25; stroke-linejoin: miter"/>
+   </g>
+   <g id="figure-title">
+    <text style="font-weight: 700; font-size: 28.08px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="66.24" y="61.56148" transform="rotate(-0 66.24 61.56148)">问题1｜多模态特征提取与候选对齐</text>
+   </g>
+   <g id="figure-subtitle">
+    <text style="font-size: 15.12px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #5d6870" x="67.68" y="93.321953" transform="rotate(-0 67.68 93.321953)">原始样本保持不变，独立提取三模态，保留质量状态与完整来源链。</text>
+   </g>
+   <g id="text-002">
+    <text style="font-weight: 700; font-size: 16.56px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #237d75" x="46.08" y="137.163055" transform="rotate(-0 46.08 137.163055)">01</text>
+   </g>
+   <g id="text-003">
+    <text style="font-weight: 700; font-size: 17.28px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #237d75" x="77.76" y="137.478403" transform="rotate(-0 77.76 137.478403)">数据与来源约束</text>
+   </g>
+   <g id="q1-input-title">
+    <text style="font-weight: 700; font-size: 17.28px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #237d75" x="60.48" y="177.094603" transform="rotate(-0 60.48 177.094603)">附件1：100条原始样本</text>
+   </g>
+   <g id="q1-input-line-1">
+    <text style="font-size: 15.12px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="60.48" y="205.584071" transform="rotate(-0 60.48 205.584071)">原视频、官方原文、原始编号与全部标签保留；不改标注，不剔除异常样本。</text>
+   </g>
+   <g id="q1-input-line-2">
+    <text style="font-size: 15.12px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="60.48" y="230.078246" transform="rotate(-0 60.48 230.078246)">文件配对与来源哈希登记；问题1不训练情感预测器。</text>
+   </g>
+   <g id="text-007">
+    <text style="font-weight: 700; font-size: 16.56px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #237d75" x="46.08" y="279.690711" transform="rotate(-0 46.08 279.690711)">02</text>
+   </g>
+   <g id="text-008">
+    <text style="font-weight: 700; font-size: 17.28px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #237d75" x="77.76" y="280.037053" transform="rotate(-0 77.76 280.037053)">媒体时钟与基础处理</text>
+   </g>
+   <g id="q1-media-title">
+    <text style="font-weight: 700; font-size: 17.28px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #237d75" x="60.48" y="319.620853" transform="rotate(-0 60.48 319.620853)">文本索引 + 原生媒体时钟</text>
+   </g>
+   <g id="q1-media-line-1">
+    <text style="font-size: 15.12px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="60.48" y="347.294753" transform="rotate(-0 60.48 347.294753)">PyAV遵循MP4编辑列表；派生16 kHz单声道WAV，保存音频采样与视频帧PTS映射。</text>
+   </g>
+   <g id="q1-media-line-2">
+    <text style="font-size: 15.12px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="60.48" y="372.666596" transform="rotate(-0 60.48 372.666596)">保留原词字符区间与媒体来源；时钟工程核验不等于人工音画同步或语义对应验证。</text>
+   </g>
+   <g id="text-012">
+    <text style="font-weight: 700; font-size: 16.56px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #237d75" x="46.08" y="422.250711" transform="rotate(-0 46.08 422.250711)">03</text>
+   </g>
+   <g id="text-013">
+    <text style="font-weight: 700; font-size: 17.28px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #237d75" x="77.76" y="422.597053" transform="rotate(-0 77.76 422.597053)">并行处理</text>
+   </g>
+   <g id="q1-text-title">
+    <text style="font-weight: 700; font-size: 16.56px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #a34e69" x="60.48" y="464.973318" transform="rotate(-0 60.48 464.973318)">文本表示</text>
+   </g>
+   <g id="q1-text-line-1">
+    <text style="font-size: 13.68px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="60.48" y="492.755544" transform="rotate(-0 60.48 492.755544)">原词、WordPiece与字符offset</text>
+   </g>
+   <g id="q1-text-line-2">
+    <text style="font-size: 13.68px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="60.48" y="517.209894" transform="rotate(-0 60.48 517.209894)">冻结BERT最后一层表示</text>
+   </g>
+   <g id="q1-text-line-3">
+    <text style="font-size: 13.68px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="60.48" y="541.663175" transform="rotate(-0 60.48 541.663175)">按原词聚合子词均值</text>
+   </g>
+   <g id="q1-text-line-4">
+    <text style="font-size: 13.68px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="60.48" y="566.122869" transform="rotate(-0 60.48 566.122869)">保留长文本分块处理</text>
+   </g>
+   <g id="q1-text-line-5">
+    <text style="font-size: 13.68px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="60.48" y="590.622107" transform="rotate(-0 60.48 590.622107)">词级输出：L × 768</text>
+   </g>
+   <g id="q1-align-title">
+    <text style="font-weight: 700; font-size: 16.56px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #237d75" x="331.2" y="464.997899" transform="rotate(-0 331.2 464.997899)">候选词时间</text>
+   </g>
+   <g id="q1-align-line-1">
+    <text style="font-size: 13.68px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="331.2" y="492.717069" transform="rotate(-0 331.2 492.717069)">官方原文 + 派生WAV</text>
+   </g>
+   <g id="q1-align-line-2">
+    <text style="font-size: 13.68px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="331.2" y="516.174275" transform="rotate(-0 331.2 516.174275)">WhisperX / wav2vec2</text>
+   </g>
+   <g id="q1-align-line-3">
+    <text style="font-size: 13.68px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="331.2" y="541.669588" transform="rotate(-0 331.2 541.669588)">条件式强制对齐</text>
+   </g>
+   <g id="q1-align-line-4">
+    <text style="font-size: 13.68px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="331.2" y="566.156" transform="rotate(-0 331.2 566.156)">不以ASR转写替换原文</text>
+   </g>
+   <g id="q1-align-line-5">
+    <text style="font-size: 13.68px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="331.2" y="590.590044" transform="rotate(-0 331.2 590.590044)">输出：候选起止区间</text>
+   </g>
+   <g id="q1-audio-title">
+    <text style="font-weight: 700; font-size: 16.56px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #398365" x="601.92" y="465.013424" transform="rotate(-0 601.92 465.013424)">声学原始序列</text>
+   </g>
+   <g id="q1-audio-line-1">
+    <text style="font-size: 13.68px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="601.92" y="491.486938" transform="rotate(-0 601.92 491.486938)">openSMILE eGeMAPSv02</text>
+   </g>
+   <g id="q1-audio-line-2">
+    <text style="font-size: 13.68px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="601.92" y="516.945913" transform="rotate(-0 601.92 516.945913)">25维低层描述子（LLD）</text>
+   </g>
+   <g id="q1-audio-line-3">
+    <text style="font-size: 13.68px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="601.92" y="541.676" transform="rotate(-0 601.92 541.676)">保存原生分配区间</text>
+   </g>
+   <g id="q1-audio-line-4">
+    <text style="font-size: 13.68px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="601.92" y="566.122869" transform="rotate(-0 601.92 566.122869)">保留平滑上下文限制</text>
+   </g>
+   <g id="q1-audio-line-5">
+    <text style="font-size: 13.68px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="601.92" y="590.629588" transform="rotate(-0 601.92 590.629588)">不是官方附件2的74维特征</text>
+   </g>
+   <g id="q1-vision-title">
+    <text style="font-weight: 700; font-size: 16.56px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #3978a5" x="872.64" y="464.972024" transform="rotate(-0 872.64 464.972024)">视觉原始序列</text>
+   </g>
+   <g id="q1-vision-line-1">
+    <text style="font-size: 13.68px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="872.64" y="491.486938" transform="rotate(-0 872.64 491.486938)">OpenFace 2.2 / CECLM</text>
+   </g>
+   <g id="q1-vision-line-2">
+    <text style="font-size: 13.68px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="872.64" y="517.162869" transform="rotate(-0 872.64 517.162869)">17 AU + 6头姿 + 2视线</text>
+   </g>
+   <g id="q1-vision-line-3">
+    <text style="font-size: 13.68px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="872.64" y="541.61615" transform="rotate(-0 872.64 541.61615)">25维特征与真实帧PTS</text>
+   </g>
+   <g id="q1-vision-line-4">
+    <text style="font-size: 13.68px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="872.64" y="566.157069" transform="rotate(-0 872.64 566.157069)">success质量标志单独保留</text>
+   </g>
+   <g id="q1-vision-line-5">
+    <text style="font-size: 13.68px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="872.64" y="590.562257" transform="rotate(-0 872.64 590.562257)">失败帧与原始CSV不删除</text>
+   </g>
+   <g id="text-038">
+    <text style="font-weight: 700; font-size: 16.56px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #237d75" x="46.08" y="649.050711" transform="rotate(-0 46.08 649.050711)">04</text>
+   </g>
+   <g id="text-039">
+    <text style="font-weight: 700; font-size: 17.28px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #237d75" x="77.76" y="649.355203" transform="rotate(-0 77.76 649.355203)">形成变长词级候选视图</text>
+   </g>
+   <g id="q1-aggregate-title">
+    <text style="font-weight: 700; font-size: 17.28px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #237d75" x="60.48" y="693.969553" transform="rotate(-0 60.48 693.969553)">按候选词区间聚合，不伪造观测</text>
+   </g>
+   <g id="q1-aggregate-line-1">
+    <text style="font-size: 15.12px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="60.48" y="722.565334" transform="rotate(-0 60.48 722.565334)">音频与视觉按区间重叠长度加权；视觉额外使用success标记有效观测。</text>
+   </g>
+   <g id="q1-aggregate-line-2">
+    <text style="font-size: 15.12px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="60.48" y="747.074865" transform="rotate(-0 60.48 747.074865)">无有效重叠时保留原词，保存占位向量与available=false；原始序列始终保留。</text>
+   </g>
+   <g id="q1-aggregate-line-3">
+    <text style="font-size: 15.12px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="60.48" y="771.561953" transform="rotate(-0 60.48 771.561953)">逐词保存参与观测索引、时间区间和权重和，可由原始序列独立复算。</text>
+   </g>
+   <g id="text-044">
+    <text style="font-weight: 700; font-size: 16.56px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #237d75" x="46.08" y="818.250711" transform="rotate(-0 46.08 818.250711)">05</text>
+   </g>
+   <g id="text-045">
+    <text style="font-weight: 700; font-size: 17.28px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #237d75" x="77.76" y="818.503903" transform="rotate(-0 77.76 818.503903)">质量与可追溯性分别登记</text>
+   </g>
+   <g id="q1-quality-title">
+    <text style="font-weight: 700; font-size: 17.28px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #237d75" x="60.48" y="863.288353" transform="rotate(-0 60.48 863.288353)">独立质量状态</text>
+   </g>
+   <g id="q1-quality-line-1">
+    <text style="font-size: 15.12px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="60.48" y="891.727534" transform="rotate(-0 60.48 891.727534)">区分提取可用性、自然零、填充与局部缺失。</text>
+   </g>
+   <g id="q1-quality-line-2">
+    <text style="font-size: 15.12px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="60.48" y="916.259509" transform="rotate(-0 60.48 916.259509)">语义对应未知不写成正常；不据标签修复时间。</text>
+   </g>
+   <g id="q1-quality-line-3">
+    <text style="font-size: 15.12px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="60.48" y="940.725334" transform="rotate(-0 60.48 940.725334)">声学分配区间不等于完整物理支持区间。</text>
+   </g>
+   <g id="q1-audit-title">
+    <text style="font-weight: 700; font-size: 17.28px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #626e77" x="601.92" y="863.254603" transform="rotate(-0 601.92 863.254603)">工程复核与交付索引</text>
+   </g>
+   <g id="q1-audit-line-1">
+    <text style="font-size: 15.12px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="601.92" y="891.751159" transform="rotate(-0 601.92 891.751159)">核查100条ID、原文、标签及特征形状。</text>
+   </g>
+   <g id="q1-audit-line-2">
+    <text style="font-size: 15.12px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="601.92" y="916.281953" transform="rotate(-0 601.92 916.281953)">独立重算聚合与来源索引，保留失败记录。</text>
+   </g>
+   <g id="q1-audit-line-3">
+    <text style="font-size: 15.12px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="601.92" y="940.718246" transform="rotate(-0 601.92 940.718246)">典型样本和非理想样本同时展示。</text>
+   </g>
+   <g id="text-054">
+    <text style="font-weight: 700; font-size: 16.56px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #237d75" x="46.08" y="988.170711" transform="rotate(-0 46.08 988.170711)">06</text>
+   </g>
+   <g id="text-055">
+    <text style="font-weight: 700; font-size: 17.28px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #237d75" x="77.76" y="988.484653" transform="rotate(-0 77.76 988.484653)">问题1交付</text>
+   </g>
+   <g id="q1-delivery-title">
+    <text style="font-weight: 700; font-size: 17.28px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #237d75" x="60.48" y="1033.182703" transform="rotate(-0 60.48 1033.182703)">100条特征 + 映射 + 掩码 + 全量汇总</text>
+   </g>
+   <g id="q1-delivery-line-1">
+    <text style="font-size: 15.12px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="60.48" y="1061.714865" transform="rotate(-0 60.48 1061.714865)">词级T / A / V：L × 768、L × 25、L × 25；同时交付原始序列、来源记录及质量说明。</text>
+   </g>
+   <g id="q1-delivery-line-2">
+    <text style="font-size: 15.12px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #202b30" x="60.48" y="1086.172421" transform="rotate(-0 60.48 1086.172421)">共1932词：文本/声学候选各可用1932词，视觉候选可用1824词。</text>
+   </g>
+   <g id="footer-1">
+    <text style="font-size: 14.4px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #5d6870" x="46.08" y="1139.364211" transform="rotate(-0 46.08 1139.364211)">边界：5条词级视觉全部不可用、108词视觉不可用；全部逐词语义对应仍未核验。</text>
+   </g>
+   <g id="footer-2">
+    <text style="font-size: 14.4px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #5d6870" x="46.08" y="1163.823961" transform="rotate(-0 46.08 1163.823961)">候选时间不是人工发音真值。Q1自提特征不作为Q2/Q3的训练输入，仅可复用处理与映射方法。</text>
+   </g>
+   <g id="footer-3">
+    <text style="font-size: 14.4px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #5d6870" x="46.08" y="1188.366961" transform="rotate(-0 46.08 1188.366961)">实线表示已实施流程；图中统计沿用当前正式采用的Q1结果。</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pd57c6c58ca">
+   <rect x="0" y="0" width="1152" height="1216.8"/>
+  </clipPath>
+ </defs>
+</svg>

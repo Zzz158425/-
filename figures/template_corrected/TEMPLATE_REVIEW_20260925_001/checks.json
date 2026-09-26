@@ -1,0 +1,59 @@
+{
+  "accepted": true,
+  "figures": [
+    {
+      "name": "图一_Q1详细处理流程图",
+      "native_text_elements": 64,
+      "vector_connectors": 25,
+      "text_and_connector_geometry_passed": true,
+      "embedded_images": 0,
+      "svg": {
+        "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\template_corrected\\TEMPLATE_REVIEW_20260925_001\\图一_Q1详细处理流程图.svg",
+        "bytes": 28657,
+        "sha256": "2e1966e9558389a7e68f9a33ea26f257d5e0ce8a7cc1c2d38dc1ab2e462bc4be"
+      },
+      "png": {
+        "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\template_corrected\\TEMPLATE_REVIEW_20260925_001\\图一_Q1详细处理流程图.png",
+        "bytes": 656753,
+        "sha256": "81e5c61460fc77f382b8d45797f71a85049e211a0ad0708bcd98069ea155fd8d"
+      }
+    },
+    {
+      "name": "图二_Q2详细处理流程图",
+      "native_text_elements": 113,
+      "vector_connectors": 19,
+      "text_and_connector_geometry_passed": true,
+      "embedded_images": 0,
+      "svg": {
+        "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\template_corrected\\TEMPLATE_REVIEW_20260925_001\\图二_Q2详细处理流程图.svg",
+        "bytes": 34549,
+        "sha256": "6d2cd72002a396e123bf1c578f15e05451bb2297dd1d5ff7f92e3ea239bbbd1d"
+      },
+      "png": {
+        "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\template_corrected\\TEMPLATE_REVIEW_20260925_001\\图二_Q2详细处理流程图.png",
+        "bytes": 896447,
+        "sha256": "b461350642a47f30dc6f7dbf3cd4d195b815bd0635f6497e7812648bf9e91c42"
+      }
+    },
+    {
+      "name": "图三_Q3详细处理流程图",
+      "native_text_elements": 53,
+      "vector_connectors": 14,
+      "text_and_connector_geometry_passed": true,
+      "embedded_images": 0,
+      "svg": {
+        "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\template_corrected\\TEMPLATE_REVIEW_20260925_001\\图三_Q3详细处理流程图.svg",
+        "bytes": 23272,
+        "sha256": "b4064f3dcc2eb5ca29e3c95bd939f58593f0139bf1b77d6c26d2f89a9314f34c"
+      },
+      "png": {
+        "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\template_corrected\\TEMPLATE_REVIEW_20260925_001\\图三_Q3详细处理流程图.png",
+        "bytes": 635289,
+        "sha256": "587b82c81281c31ebe2d98fcb0661410e1ebcbaa8ef73ff8f4f363c318e8d365"
+      }
+    }
+  ],
+  "old_figure_count": 182,
+  "old_figures_unchanged": true,
+  "sources_unchanged": true
+}

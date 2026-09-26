@@ -1,0 +1,150 @@
+{
+  "old_figures": [
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_DELIVERY_20260924_001_ABLATION\\p2_ablation.png",
+      "bytes": 292984,
+      "sha256": "e2194ce439ad5eb940ff590206e6696f3c41c80f271ae39a979acaacda4a6f8d"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_DELIVERY_20260924_001_ABLATION\\p2_ablation.svg",
+      "bytes": 49531,
+      "sha256": "757071e68f872f2fd6174f3321aae8b42d692349ee04d5de5e88c5032d1e53e1"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_DELIVERY_20260924_001_CONFUSION\\p2_confusion.png",
+      "bytes": 290110,
+      "sha256": "47f0004adcadaf9aa2652aab96187516cab4845c7fcb975243fcc033238596f5"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_DELIVERY_20260924_001_CONFUSION\\p2_confusion.svg",
+      "bytes": 40769,
+      "sha256": "36a82c845c66f3911b2c0a3826cf209d88070a4aa09718a927e3ccbf0c00976c"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_DELIVERY_20260924_001_F1\\p2_robustness_f1.png",
+      "bytes": 501331,
+      "sha256": "ebca56c4fdc624ec94b7b8454f384fd4b883a297807c9f34ba3a3a3f6720a218"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_DELIVERY_20260924_001_F1\\p2_robustness_f1.svg",
+      "bytes": 107333,
+      "sha256": "e38e4a18748930a02461f4e0bb1dfc5cf4daff721ab85e5c0e78187a361ca2d8"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_DELIVERY_20260924_001_MAE\\p2_robustness_mae.png",
+      "bytes": 465088,
+      "sha256": "084154b71279f80f49f7f51ba1a455aa6c1e06be57b38ecc8f8cb9510d9176d6"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_DELIVERY_20260924_001_MAE\\p2_robustness_mae.svg",
+      "bytes": 104559,
+      "sha256": "12f9f528200350b58ff855a0e8da3f42da9e56f88ee6bcbdb331cf774acf988b"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_DELIVERY_20260924_002_REGRESSION\\p2_regression.png",
+      "bytes": 660842,
+      "sha256": "8f58b0bb2e61cabf18b7d9deb7187cafbbbd942168af753a1b6581946a04c902"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_DELIVERY_20260924_002_REGRESSION\\p2_regression.svg",
+      "bytes": 518363,
+      "sha256": "f7999d607cbdd6cb2cb4c75ed80d38b3dbcbe4ab440137a42798976f2c8f5158"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_FINAL_TEST_20260925_001\\test_confusion_and_classes.png",
+      "bytes": 112299,
+      "sha256": "9a8a8d763c6d0d196cb3645bacead7e5a2d53ebb51438bb624bfe95272ad8a70"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_FINAL_TEST_20260925_001\\test_confusion_and_classes.svg",
+      "bytes": 29168,
+      "sha256": "aad1e5944854f8d92f02502a62ad3a4ea6d0101d73eb799f3d28bdace038edc3"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_FINAL_TEST_20260925_001\\test_regression.png",
+      "bytes": 178673,
+      "sha256": "6ee13ef6e13b4c8e1eb876e14f680ac9c52fdc6107ce831ed8448e69e7018ae2"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_FINAL_TEST_20260925_001\\test_regression.svg",
+      "bytes": 135502,
+      "sha256": "57117c8220cb1483cb573d1ad59318c4af94e6d3bd30638ad0498ce30c21f631"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_FINAL_TEST_20260925_001\\test_robustness.png",
+      "bytes": 398517,
+      "sha256": "787ca47e78bb3149573e8a3c70ffe591a5fa65252c538403d69dfaf7e0fe9086"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_FINAL_TEST_20260925_001\\test_robustness.svg",
+      "bytes": 116022,
+      "sha256": "f88b01ca7ec138ed6fea23ebb82074e7e3792291d5a5898979b1a7faf9a07b52"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_FINAL_TEST_20260925_001\\validation_test_metrics.png",
+      "bytes": 119589,
+      "sha256": "8769a7119eba4061442d41fa9baeed4a8ff74f1d33a92f0684d6ec80e8d698e7"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_FINAL_TEST_20260925_001\\validation_test_metrics.svg",
+      "bytes": 33644,
+      "sha256": "6e853a4b91bae8c52fb8adf81efe77d19ab225e7e16127038870801f70ac2dd4"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_RESULTS_VERIFY_20260924_001_REPEAT_ABLATION\\p2_ablation.png",
+      "bytes": 292984,
+      "sha256": "e2194ce439ad5eb940ff590206e6696f3c41c80f271ae39a979acaacda4a6f8d"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_RESULTS_VERIFY_20260924_001_REPEAT_ABLATION\\p2_ablation.svg",
+      "bytes": 49531,
+      "sha256": "757071e68f872f2fd6174f3321aae8b42d692349ee04d5de5e88c5032d1e53e1"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_RESULTS_VERIFY_20260924_001_REPEAT_CONFUSION\\p2_confusion.png",
+      "bytes": 290110,
+      "sha256": "47f0004adcadaf9aa2652aab96187516cab4845c7fcb975243fcc033238596f5"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_RESULTS_VERIFY_20260924_001_REPEAT_CONFUSION\\p2_confusion.svg",
+      "bytes": 40769,
+      "sha256": "36a82c845c66f3911b2c0a3826cf209d88070a4aa09718a927e3ccbf0c00976c"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_RESULTS_VERIFY_20260924_001_REPEAT_F1\\p2_robustness_f1.png",
+      "bytes": 501331,
+      "sha256": "ebca56c4fdc624ec94b7b8454f384fd4b883a297807c9f34ba3a3a3f6720a218"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_RESULTS_VERIFY_20260924_001_REPEAT_F1\\p2_robustness_f1.svg",
+      "bytes": 107333,
+      "sha256": "e38e4a18748930a02461f4e0bb1dfc5cf4daff721ab85e5c0e78187a361ca2d8"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_RESULTS_VERIFY_20260924_001_REPEAT_MAE\\p2_robustness_mae.png",
+      "bytes": 465088,
+      "sha256": "084154b71279f80f49f7f51ba1a455aa6c1e06be57b38ecc8f8cb9510d9176d6"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_RESULTS_VERIFY_20260924_001_REPEAT_MAE\\p2_robustness_mae.svg",
+      "bytes": 104559,
+      "sha256": "12f9f528200350b58ff855a0e8da3f42da9e56f88ee6bcbdb331cf774acf988b"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_RESULTS_VERIFY_20260924_001_REPEAT_REGRESSION\\p2_regression.png",
+      "bytes": 660842,
+      "sha256": "8f58b0bb2e61cabf18b7d9deb7187cafbbbd942168af753a1b6581946a04c902"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_RESULTS_VERIFY_20260924_001_REPEAT_REGRESSION\\p2_regression.svg",
+      "bytes": 518363,
+      "sha256": "f7999d607cbdd6cb2cb4c75ed80d38b3dbcbe4ab440137a42798976f2c8f5158"
+    }
+  ],
+  "unchanged": true,
+  "original_bar_script_unchanged": {
+    "path": "D:\\个人资料\\数学建模比赛\\E题解答\\code\\figures\\fig_q2_ablation.py",
+    "bytes": 1715,
+    "sha256": "e5fe6eddaca85074244d8da1888ce25145eb16ab36d5b29cb174a67a279882b1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "inputs": [
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\output\\q1\\P1_FULL_20260923_001\\config.json",
+      "sha256": "8bf0c3318f2f8ff9839cbb214479e56944bb89e2d4bae515f5245f6fcdb56fe3"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\output\\q1\\P1_FULL_20260923_001\\quality_policy.json",
+      "sha256": "07f2968a61df50fa3e91bbf1b78bfe23714ba9c8f6e46000129fb53e3522b7f6"
+    }
+  ],
+  "details": {
+    "scope": "implemented P1 pipeline; no supervised training"
+  },
+  "dpi": 300
+}

@@ -1,0 +1,23 @@
+{
+  "source": "D:\\个人资料\\数学建模比赛\\E题解答\\output\\q2\\P2_ANALYSIS_20260924_001\\plot_data.json",
+  "source_sha256": "8d0b50c38a9bb6bc823fd706119a05362b6d9535f4f07d09aafc689bb2307e90",
+  "script": "D:\\个人资料\\数学建模比赛\\E题解答\\code\\figures\\fig_q2_confusion.py",
+  "script_sha256": "d2f0d0bb105afcea35ccf192a68fec3246f242fe4fb4ba25e7f838795b30bfef",
+  "common_sha256": "b9967373eb8464dd5845f15e7ae4969fc5c785c06f8208933c1b18fdc25ddd00",
+  "image": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_RESULTS_VERIFY_20260924_001_REPEAT_CONFUSION\\p2_confusion.png",
+  "image_sha256": "47f0004adcadaf9aa2652aab96187516cab4845c7fcb975243fcc033238596f5",
+  "dpi": 300,
+  "text_outside_canvas": [],
+  "details": {
+    "seed": 20260924,
+    "scenarios": [
+      "control",
+      "TAV_end_50"
+    ],
+    "class_order": [
+      "Negative",
+      "Neutral",
+      "Positive"
+    ]
+  }
+}

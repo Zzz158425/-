@@ -1,0 +1,45 @@
+{
+  "inputs": [
+    {
+      "path": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\q3\\P3_REPLAY_ALL20_20260925_001\\samples\\09\\replay.json",
+      "sha256": "6587d744c419156282516bd4f361014d9e6db4bec19de913a6fca5a978cd4e5d"
+    },
+    {
+      "path": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\q3\\P3_REPLAY_ALL20_20260925_001\\samples\\09\\word_candidates.json",
+      "sha256": "e57b70dc9598303adfc05cd698c108d3567ec7ac3ddb77f1d1161ebbd091f79e"
+    },
+    {
+      "path": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\q3\\P3_REPLAY_ALL20_20260925_001\\samples\\01\\replay.json",
+      "sha256": "2dd263b94867b93af844c3780d53dc2908a367620dc63f1519fc604501e959b6"
+    },
+    {
+      "path": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\q3\\P3_REPLAY_ALL20_20260925_001\\samples\\01\\word_candidates.json",
+      "sha256": "0e074225cd1625e7834907b22feca8cd366e8a05bcb05f3c964615bf3f914102"
+    },
+    {
+      "path": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\q3\\P3_REPLAY_ALL20_20260925_001\\samples\\13\\replay.json",
+      "sha256": "e5c38e834dfdf774446c7d68dbab931fbfa8d5f886b4c7771f304fdbde54f11b"
+    },
+    {
+      "path": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\q3\\P3_REPLAY_ALL20_20260925_001\\samples\\13\\word_candidates.json",
+      "sha256": "8851856bc795f2fe42c620ea269222f7eae07deba3489a7167426f6594f92628"
+    },
+    {
+      "path": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\q3\\P3_A4_20260924_001\\word_contributions.jsonl",
+      "sha256": "441846bb87ff11f6de75a16fda86e9ef5626d07e1787f8bda3c9d8a3a9597caa"
+    }
+  ],
+  "details": {
+    "scope": "3 of 20 samples; classification and regression per-word attribution",
+    "route": "B_engineering_assumption",
+    "official_AV_mapping_verified": false,
+    "text_char_mapping": "verified",
+    "word_time_source": "locally_reconstructed_forced_alignment",
+    "semantic_attribution_confirmed": false,
+    "normalisation": "per-sample max-abs, display only"
+  },
+  "dpi": 300,
+  "svg": "D:\\Visual Studio2022SharedProject\\E题解答\\figures\\q3\\P3_TIMESTAMP_HEATMAP_20260926_001\\p3_timestamp_heatmap.svg",
+  "svg_sha256": "8fcba9ac0399e9246ba113a378af2af1f52caa71e071e548cc812393a95fb952",
+  "svg_text_editable": true
+}

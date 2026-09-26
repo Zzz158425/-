@@ -1,0 +1,66 @@
+{
+  "source": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\q2_experiments\\P2_RATIO_SWEEP_PLOTDATA_20260926_001\\plot_data.json",
+  "source_sha256": "4cb614361e6e234d963cbd06a476e4487825b5f1bc7759df57350b9c576e9227",
+  "script": "D:\\Visual Studio2022SharedProject\\E题解答\\code\\figures\\fig_q2_length_effect.py",
+  "script_sha256": "bcd9948795d9d46a78634aeecc9f66c76fcbc33426e232703a80bcfa3b8d8316",
+  "common_sha256": "e0abdd16c21d54b0eca66a350bd608c31d42c08ae98e7d0ba649947d55e13784",
+  "image": "D:\\Visual Studio2022SharedProject\\E题解答\\figures\\q2\\P2_LENGTH_EFFECT_20260926_001\\p2_length_effect.png",
+  "image_sha256": "d3e3fbee737a5c6cf88a5d4f1bce705a6c7202b5727b62905f17da66772f00bb",
+  "svg": "D:\\Visual Studio2022SharedProject\\E题解答\\figures\\q2\\P2_LENGTH_EFFECT_20260926_001\\p2_length_effect.svg",
+  "svg_sha256": "17aa6c8bdc4d176cc516918ecea0b0b2b880b8459623439a02698a5699ccfd3b",
+  "svg_text_editable": true,
+  "dpi": 300,
+  "text_outside_canvas": [],
+  "details": {
+    "panel_left": {
+      "axis": "nominal missing ratio (%)",
+      "y": "mean realised masked slot count per sample-length group",
+      "reference_line": "strict proportional count without rounding",
+      "scenario_family": "T with start position",
+      "length_groups": [
+        5,
+        10,
+        15,
+        20,
+        25,
+        30,
+        40,
+        51
+      ]
+    },
+    "panel_right": {
+      "axis": "realised masked slot count (synthetic_planned sum)",
+      "value": "three-seed majority-vote accuracy",
+      "scenarios": "T and TAV families, all positions and ratios",
+      "bin_edges": [
+        0,
+        2,
+        4,
+        6,
+        8,
+        10,
+        14,
+        18,
+        100
+      ],
+      "bin_counts": [
+        831,
+        3096,
+        2418,
+        3222,
+        2868,
+        4413,
+        3069,
+        14649
+      ]
+    },
+    "population": 728,
+    "new_training_runs": 0
+  },
+  "overlap_with_frozen_analysis": {
+    "rows_compared": 129,
+    "max_delta": 0.0,
+    "reference": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\q2\\P2_ANALYSIS_20260924_001\\scenario_metrics.csv",
+    "seed": "20260924"
+  }
+}

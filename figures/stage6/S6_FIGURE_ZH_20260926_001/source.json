@@ -1,0 +1,17 @@
+{
+  "language": "zh-CN",
+  "d003_note": "题面未提供A/V槽位到词/秒/帧的预定义映射；本图沿用正文口径，不使用路线B措辞。",
+  "script": "D:\\Visual Studio2022SharedProject\\E题解答\\code\\stage6\\assembly_figure.py",
+  "script_sha256": "06c5f514e1c228b984b779b1106a53a9e84cc00860dc9af8c8ef3912875dd1a4",
+  "base_script": "D:\\Visual Studio2022SharedProject\\E题解答\\code\\figures\\overall_technical_route.py",
+  "base_script_sha256": "674ab4071dc40042c24fc3c8e8295d12394403e1a0c3174f4539ff4c8608b21f",
+  "image": "D:\\Visual Studio2022SharedProject\\E题解答\\figures\\stage6\\S6_FIGURE_ZH_20260926_001\\overall_technical_route_print_v2.png",
+  "image_sha256": "10c5efb594c21af4576c0c2aeb6bae4b251b0597fc51db77ce73e52d8e0d5054",
+  "svg": "D:\\Visual Studio2022SharedProject\\E题解答\\figures\\stage6\\S6_FIGURE_ZH_20260926_001\\overall_technical_route_print_v2.svg",
+  "svg_sha256": "2c6792ca74bad71247f123b88598d1035254696f1b6e804d616b5e8d72d60da8",
+  "svg_text_editable": true,
+  "dpi": 300,
+  "training": false,
+  "inference": false,
+  "metrics_recomputed": false
+}

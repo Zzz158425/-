@@ -1,0 +1,49 @@
+{
+  "review_date": "2026-09-25",
+  "accepted": true,
+  "scope": "template_redrawing_and_radar_plotting_only",
+  "method": "Viewed all three PNGs rendered directly from their SVGs by local headless Edge. Viewed the final radar PNG exported from the same Matplotlib figure as its SVG. XML checks confirm native text and no embedded raster images in all four SVGs.",
+  "checks": {
+    "template_structures_and_branch_colors_retained": true,
+    "no_visible_text_clipping_or_overlap": true,
+    "q1_alignment_inputs_and_independent_feature_delivery_corrected": true,
+    "q2_input_masking_and_checkpoint_rule_corrected": true,
+    "q3_population_and_unverified_time_mapping_corrected": true,
+    "radar_has_all_three_seed_legend_entries": true,
+    "radar_legend_does_not_overlap_raw_value_table": true,
+    "radar_uses_original_validation_data_only": true,
+    "no_training_prediction_or_alignment_performed": true,
+    "existing_bar_png_svg_and_script_preserved": true
+  },
+  "software_tests_passed": 18,
+  "protected_record_checks_passed_including_repeated_records": 235,
+  "figures": [
+    {
+      "name": "Q1",
+      "svg_sha256": "2e1966e9558389a7e68f9a33ea26f257d5e0ce8a7cc1c2d38dc1ab2e462bc4be",
+      "png_sha256": "81e5c61460fc77f382b8d45797f71a85049e211a0ad0708bcd98069ea155fd8d",
+      "native_text_elements": 64
+    },
+    {
+      "name": "Q2",
+      "svg_sha256": "6d2cd72002a396e123bf1c578f15e05451bb2297dd1d5ff7f92e3ea239bbbd1d",
+      "png_sha256": "b461350642a47f30dc6f7dbf3cd4d195b815bd0635f6497e7812648bf9e91c42",
+      "native_text_elements": 113
+    },
+    {
+      "name": "Q3",
+      "svg_sha256": "b4064f3dcc2eb5ca29e3c95bd939f58593f0139bf1b77d6c26d2f89a9314f34c",
+      "png_sha256": "587b82c81281c31ebe2d98fcb0661410e1ebcbaa8ef73ff8f4f363c318e8d365",
+      "native_text_elements": 53
+    },
+    {
+      "name": "Q2_ablation_radar",
+      "directory": "D:/个人资料/数学建模比赛/E题解答/figures/q2/P2_ABLATION_RADAR_20260925_002",
+      "svg_sha256": "abd4d9c2c15d3d621fa94bf6a3fa6c3b7572410b3bdd01e44cb60b433b1cea90",
+      "png_sha256": "24ea9e5d80077c45ebec83b21ebdbba6498978556e164fc6b3b62890cac57706",
+      "native_text_elements": 77
+    }
+  ],
+  "radar_delivery_note": "Use P2_ABLATION_RADAR_20260925_002; 001 is a preserved intermediate export with insufficient legend spacing, not the final delivered radar.",
+  "limitations": "Editable text depends on installed Microsoft YaHei or SimHei fonts. Visual QA does not certify research conclusions, semantic alignment, or official A/V slot-to-media mapping."
+}

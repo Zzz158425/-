@@ -1,0 +1,36 @@
+{
+  "source": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\q2_experiments\\P2_RATIO_SWEEP_PLOTDATA_20260926_001\\plot_data.json",
+  "source_sha256": "4cb614361e6e234d963cbd06a476e4487825b5f1bc7759df57350b9c576e9227",
+  "script": "D:\\Visual Studio2022SharedProject\\E题解答\\code\\figures\\fig_q2_modality_position.py",
+  "script_sha256": "0c4daaaf8e2add93712cf75bf212a92d052c03ebcce65cafcfa0fc2b10f00162",
+  "common_sha256": "e0abdd16c21d54b0eca66a350bd608c31d42c08ae98e7d0ba649947d55e13784",
+  "image": "D:\\Visual Studio2022SharedProject\\E题解答\\figures\\q2\\P2_MODALITY_POSITION_20260926_001\\p2_modality_position.png",
+  "image_sha256": "baa230c21b304a429f92f142fd607006853f7dbf467cc14e959b54d3b0a5d486",
+  "svg": "D:\\Visual Studio2022SharedProject\\E题解答\\figures\\q2\\P2_MODALITY_POSITION_20260926_001\\p2_modality_position.svg",
+  "svg_sha256": "0b61ec21cdfce4a21e7c294eff0af86809fd145ae3619d84c243c05dcc26d8d7",
+  "svg_text_editable": true,
+  "dpi": 300,
+  "text_outside_canvas": [],
+  "details": {
+    "left": {
+      "grouping": "combos split by whether text channel is masked",
+      "position_aggregation": "arithmetic mean of start/middle/end"
+    },
+    "right": {
+      "ratios": [
+        20,
+        50
+      ],
+      "combo_aggregation": "arithmetic mean of the seven combos"
+    },
+    "seed_aggregation": "mean of three per-seed metrics; not ensemble",
+    "control_macro_f1": 0.5723228772121547,
+    "population": 728
+  },
+  "overlap_with_frozen_analysis": {
+    "rows_compared": 129,
+    "max_delta": 0.0,
+    "reference": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\q2\\P2_ANALYSIS_20260924_001\\scenario_metrics.csv",
+    "seed": "20260924"
+  }
+}

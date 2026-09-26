@@ -1,0 +1,76 @@
+{
+  "code": {
+    "path": "D:\\个人资料\\数学建模比赛\\E题解答\\code\\q3\\plot_validation.py",
+    "bytes": 6415,
+    "sha256": "d5a754e19291a9352e5a4f5098f2f25fb1e57c17e14e5c9620f0234cbdde2c05"
+  },
+  "figures": [
+    {
+      "image": {
+        "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_VALID60_FIGURES_ZH_20260925_001\\p3_fidelity.png",
+        "bytes": 351790,
+        "sha256": "83624f9024a34843e048e2da26f7e90b8b1ab99c5971ad092be4431010a5c3e6"
+      },
+      "svg": {
+        "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_VALID60_FIGURES_ZH_20260925_001\\p3_fidelity.svg",
+        "bytes": 47135,
+        "sha256": "9f78ae567f5bb9519ba96abc3235d2caf595b8068883f8db06197267e47d3ae7"
+      },
+      "svg_text_editable": true,
+      "dpi": 300,
+      "text_outside_canvas": [],
+      "sources": [
+        {
+          "path": "D:\\个人资料\\数学建模比赛\\E题解答\\output\\q3\\P3_VALID60_ANALYSIS_20260924_001\\faithfulness_summary.json",
+          "bytes": 28045,
+          "sha256": "a710c4f6e9f82f07d9243015767b530c80b80619c43e29279f1596bc4b6b0b39"
+        },
+        {
+          "path": "D:\\个人资料\\数学建模比赛\\E题解答\\output\\q3\\P3_VALID60_ANALYSIS_20260924_001\\report.json",
+          "bytes": 13767,
+          "sha256": "97014522c255fd47008c9f689e89a07c0bca298b477ba1626e8057ba79dc1d0f"
+        }
+      ]
+    },
+    {
+      "image": {
+        "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_VALID60_FIGURES_ZH_20260925_001\\p3_stability.png",
+        "bytes": 195227,
+        "sha256": "3a10a90783166ae56e9d4bea46ee7b659bd4cc74a96489ce308f25737082e1cc"
+      },
+      "svg": {
+        "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_VALID60_FIGURES_ZH_20260925_001\\p3_stability.svg",
+        "bytes": 11007,
+        "sha256": "d0ddb0b009a9689af032ee32f858b2767ff4f02ec048176e7aba1aa15493d166"
+      },
+      "svg_text_editable": true,
+      "dpi": 300,
+      "text_outside_canvas": [],
+      "sources": [
+        {
+          "path": "D:\\个人资料\\数学建模比赛\\E题解答\\output\\q3\\P3_VALID60_ANALYSIS_20260924_001\\stability.json",
+          "bytes": 263812,
+          "sha256": "97e9a23c537d8fde4fbe482601414bffab099ba868002a375348e577bf342c8a"
+        },
+        {
+          "path": "D:\\个人资料\\数学建模比赛\\E题解答\\output\\q3\\P3_VALID60_ANALYSIS_20260924_001\\report.json",
+          "bytes": 13767,
+          "sha256": "97014522c255fd47008c9f689e89a07c0bca298b477ba1626e8057ba79dc1d0f"
+        }
+      ]
+    }
+  ],
+  "presentation_code": {
+    "path": "D:\\个人资料\\数学建模比赛\\E题解答\\code\\q3\\plot_chinese.py",
+    "bytes": 2191,
+    "sha256": "7b3201456838873aa54bc5c4845c5c63395d54eb71e049b7ac89ebdbcbfffc84"
+  },
+  "language": "zh-CN",
+  "font_family": [
+    "Microsoft YaHei",
+    "DejaVu Sans"
+  ],
+  "training": false,
+  "inference": false,
+  "attribution_recomputed": false
+}

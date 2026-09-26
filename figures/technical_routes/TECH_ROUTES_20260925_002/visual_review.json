@@ -1,0 +1,41 @@
+{
+  "review_date": "2026-09-25",
+  "accepted": true,
+  "scope": "diagram_rendering_not_research_validation",
+  "method": "Viewed all four PNG exports via view_image. Final Q2 PNG was viewed again after connector adjustment. The other three final PNG hashes match their inspected first exports. SVG XML was checked for editable text and no embedded image; SVG was not separately browser-rendered.",
+  "checks": {
+    "readable_text": true,
+    "no_visible_text_clipping_or_overlap": true,
+    "connectors_clear_and_directed": true,
+    "q3_pending_work_visibly_dashed": true,
+    "validation_and_test_results_distinct": true,
+    "no_new_training_inference_or_alignment": true
+  },
+  "software_tests": {
+    "technical_route_tests_passed": 8,
+    "shared_svg_export_tests_passed": 6
+  },
+  "figures": [
+    {
+      "name": "q1_technical_route",
+      "png_sha256": "abca922abc8aa6a10595bd0e526f7094caabf62b0b90553245c3715dd570a896",
+      "svg_sha256": "037b60170ccc782cb3e085d8d1526c8a92adef8cf7e9bc74061675d798532f9f"
+    },
+    {
+      "name": "q2_technical_route",
+      "png_sha256": "b1894da5d2114c32417207b7e40bb28ad25abbca20fd4bf9185d411f86b6bc40",
+      "svg_sha256": "1ffe675af9d36d56e5f679bf17cc49ef3180cf76cc62114969978dfa401eaabb"
+    },
+    {
+      "name": "q3_technical_route",
+      "png_sha256": "329987159d9deb5421291311d0fa9dd64db5b1f5cefa55444406fa879b376f1a",
+      "svg_sha256": "b27c7fef18bfd35dbc45781fd50c0a57174f67cac597d8dfdf8ab302f9d7ab42"
+    },
+    {
+      "name": "overall_technical_route",
+      "png_sha256": "9ced325a18d29d5aaafe5021c75107b905db1f945d18a4cf30f23485520c2139",
+      "svg_sha256": "a802b2969f54ee6deda63a4d78e9f99f6adca99066a191a78e02afe99dc776e6"
+    }
+  ],
+  "delivery_note": "Use TECH_ROUTES_20260925_002. The first export remains as a preserved intermediate version. Existing research files and pre-existing figures were not overwritten."
+}

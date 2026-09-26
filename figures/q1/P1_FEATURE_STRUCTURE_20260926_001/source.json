@@ -1,0 +1,21 @@
+{
+  "inputs": [
+    {
+      "path": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\q1\\P1_FULL_VERIFY_20260923_001\\summary.json",
+      "sha256": "abb9b9d6a1a85e5e28139df80aabaf85c8ea1ca217fc4939cee264c34969203a"
+    },
+    {
+      "path": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\q1\\P1_FULL_VERIFY_20260923_001\\coverage_100.csv",
+      "sha256": "b15ce905f55a3b8cec30ca4a306dce2fedc83dc98cb90e615192d47de75ea204"
+    }
+  ],
+  "details": {
+    "scope": "all 100 samples; structural counts only",
+    "meaning": "row counts are raw observations, word vectors are interval-weighted aggregates",
+    "no_padding": true
+  },
+  "dpi": 300,
+  "svg": "D:\\Visual Studio2022SharedProject\\E题解答\\figures\\q1\\P1_FEATURE_STRUCTURE_20260926_001\\fig_q1_feature_structure.svg",
+  "svg_sha256": "6d2d7c6b9221a32275318812fa2d544527634b66b3bfee4a71b09751ad59dc5d",
+  "svg_text_editable": true
+}

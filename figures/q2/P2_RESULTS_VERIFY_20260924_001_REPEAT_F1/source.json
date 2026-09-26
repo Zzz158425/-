@@ -1,0 +1,16 @@
+{
+  "source": "D:\\个人资料\\数学建模比赛\\E题解答\\output\\q2\\P2_ANALYSIS_20260924_001\\plot_data.json",
+  "source_sha256": "8d0b50c38a9bb6bc823fd706119a05362b6d9535f4f07d09aafc689bb2307e90",
+  "script": "D:\\个人资料\\数学建模比赛\\E题解答\\code\\figures\\fig_q2_robustness.py",
+  "script_sha256": "e6cdac2bbf122704602fb31574a42b8bc26a880c9642360aa51139056fc5f706",
+  "common_sha256": "b9967373eb8464dd5845f15e7ae4969fc5c785c06f8208933c1b18fdc25ddd00",
+  "image": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_RESULTS_VERIFY_20260924_001_REPEAT_F1\\p2_robustness_f1.png",
+  "image_sha256": "ebca56c4fdc624ec94b7b8454f384fd4b883a297807c9f34ba3a3a3f6720a218",
+  "dpi": 300,
+  "text_outside_canvas": [],
+  "details": {
+    "metric": "macro_f1",
+    "seed_aggregation": "mean of three per-seed metrics; not ensemble",
+    "population": 728
+  }
+}

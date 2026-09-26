@@ -1,0 +1,16 @@
+{
+  "inputs": [
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\output\\q1\\P1_FULL_VERIFY_20260923_001\\summary.json",
+      "sha256": "abb9b9d6a1a85e5e28139df80aabaf85c8ea1ca217fc4939cee264c34969203a"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\output\\q1\\P1_FULL_VERIFY_20260923_001\\coverage_100.csv",
+      "sha256": "b15ce905f55a3b8cec30ca4a306dce2fedc83dc98cb90e615192d47de75ea204"
+    }
+  ],
+  "details": {
+    "scope": "100 samples; structural metrics, not semantic accuracy"
+  },
+  "dpi": 300
+}

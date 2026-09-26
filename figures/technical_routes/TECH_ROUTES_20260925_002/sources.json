@@ -1,0 +1,1000 @@
+{
+  "context": {
+    "q1_words": 1932,
+    "q1_visual_words": 1824,
+    "valid_accuracy": 0.6277472527472527,
+    "test_accuracy": 0.6643741403026134
+  },
+  "sources": [
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\output\\q1\\P1_FULL_VERIFY_20260923_001\\summary.json",
+      "bytes": 1709,
+      "sha256": "abb9b9d6a1a85e5e28139df80aabaf85c8ea1ca217fc4939cee264c34969203a"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\paper\\q1.md",
+      "bytes": 23699,
+      "sha256": "fdcfab0df639f57c5cbfcc35e63e2e125f583ce15d309596f6a199c7eae3fc4a"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\paper\\q1_handoff.md",
+      "bytes": 7527,
+      "sha256": "d1c4150c47c440487601efbc17b34dc48f1f7276521f5aaaae5a19bae2eaa525"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\configs\\q1\\extraction.json",
+      "bytes": 886,
+      "sha256": "390ef8fb96b0fcf2eaaf1a0271c8941cbcb81e479873836a005d2ddac5e869da"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\code\\q1\\extract.py",
+      "bytes": 18476,
+      "sha256": "ba7276e62eedd38cd4082a3430e0d75756985cc9c27319754a7c6d6b05405de8"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\code\\q2\\model.py",
+      "bytes": 5039,
+      "sha256": "9eb2e622bfd5015258a363c382cf2c96991e8b62e080d9ce3e50ab4a0b10d64f"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\code\\q2\\preprocessing.py",
+      "bytes": 7228,
+      "sha256": "d05ca72c3ca6d1d50efac92309964656e6dacfcd6bc0d2afe8e5070dee503d2c"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\code\\q2\\text_protocol.py",
+      "bytes": 8539,
+      "sha256": "a052058f41b9ecf9a0a737577aa46645b603e9229945f62fb406f02b5bbf2b96"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\configs\\q2\\formal_experiment.json",
+      "bytes": 3525,
+      "sha256": "8b7188de24af20f82f47869a334eb3b1e0a13c3da8b8bdc7093ee33e1d86c5f6"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\paper\\q2_formal_report.md",
+      "bytes": 8132,
+      "sha256": "0d14beea64b63be1f6d897245285394b19a2ac18bb6f0e9a96e7c92ff5795ea4"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\output\\finalization\\P2_FINAL_TEST_20260925_001\\summary.json",
+      "bytes": 2301,
+      "sha256": "a156ff23098292ac48f4910c3ce5dc3688ca8c5cb162c4673cb915270e656b41"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\output\\finalization\\P2_FINAL_TEST_20260925_001\\completion.json",
+      "bytes": 3541,
+      "sha256": "6c8d2a74ec2dec8cfdba886cb6bd2364888f8dabbc1101dc11b2aafe2af6e393"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\paper\\q2_final_test_report.md",
+      "bytes": 7381,
+      "sha256": "b1354f65af8e927c95f098d2c97360e257f0a846c36076ecb25dc9e92c3850df"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\paper\\q3_validation_report.md",
+      "bytes": 11993,
+      "sha256": "4c490b297282638c3818dff0fc24378884f96feb4edaba0df23c457c74055472"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\paper\\q3_a4_report.md",
+      "bytes": 12808,
+      "sha256": "483d450514bfb5c2c76a32d2df83180472713fb9632ad9ad11ee7a6da84bc1df"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\paper\\q3_mapping_audit_report.md",
+      "bytes": 9629,
+      "sha256": "e4d1df64033abda0e2bf93d09e4ab09f61f34cda5a5462584de29a2a7e6cc253"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\paper\\q3_replay_plan.md",
+      "bytes": 3403,
+      "sha256": "c95faadbb8208e6eb5e450d203e2c667a51fe866f0c87f0fdb485a015a289159"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\output\\q3\\P3_A4_VERIFY_20260924_001\\verification.json",
+      "bytes": 1547968,
+      "sha256": "8ed2d62938140401f29a2d23a0f80fc6c4c4307743c17588ae649b482cfb098f"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\q2总体流程图.png",
+      "bytes": 1572404,
+      "sha256": "4a2980747406dee5ea4b922410c9ac5cae7b41bf228f6dc96609c6d6d4b0694f"
+    }
+  ],
+  "implementation": {
+    "path": "D:\\个人资料\\数学建模比赛\\E题解答\\code\\figures\\technical_routes.py",
+    "bytes": 36939,
+    "sha256": "c7f338c9c2559d3489c03d3aa402f82dba34ffa13e8fd0d1c120c000178ad251"
+  },
+  "shared_exporter": {
+    "path": "D:\\个人资料\\数学建模比赛\\E题解答\\code\\common\\plot_export.py",
+    "bytes": 1852,
+    "sha256": "ab0c52f2ca082cad1c150e8c3790a25df25d798c410513d9f40f50dbe747ff50"
+  },
+  "fonts": [
+    {
+      "path": "C:\\Windows\\Fonts\\msyh.ttc",
+      "bytes": 19701556,
+      "sha256": "3084f1f88369af6bf9989c909024164d953d1e38d08734f05f28ef24b2f9d577"
+    },
+    {
+      "path": "C:\\Windows\\Fonts\\msyhbd.ttc",
+      "bytes": 16880832,
+      "sha256": "519309b7ab0479c4dc3ace5e291de5a8702175be5586e165bc810267bd4619a5"
+    }
+  ],
+  "old_figure_records": [
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\overall_technical_route.png",
+      "bytes": 1112759,
+      "sha256": "b338a767fb2ec15207003d162253facf2db9a2d976cae468a0d21b96c20803d3"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\overall_technical_route.svg",
+      "bytes": 20660,
+      "sha256": "94504e534ed4024eb176b79fc2a18e213801391a9a4bf272254ef26cc4326610"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_DELIVERY_20260923_001_QUALITY\\fig_q1_full_quality.png",
+      "bytes": 305120,
+      "sha256": "15afd9624103243336db33e6e58c58f1015cd8d17231e0e25f36cd094e46bd35"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_DELIVERY_20260923_001_QUALITY\\fig_q1_full_quality.svg",
+      "bytes": 64945,
+      "sha256": "c7e1c49a43ea44dd9f9cc0ced95140cfb1f9d246b685f1140f02d4e1c3781967"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_DELIVERY_20260923_001_QUALITY_REPEAT\\fig_q1_full_quality.png",
+      "bytes": 305120,
+      "sha256": "15afd9624103243336db33e6e58c58f1015cd8d17231e0e25f36cd094e46bd35"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_DELIVERY_20260923_001_QUALITY_REPEAT\\fig_q1_full_quality.svg",
+      "bytes": 64945,
+      "sha256": "c7e1c49a43ea44dd9f9cc0ced95140cfb1f9d246b685f1140f02d4e1c3781967"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_DELIVERY_20260923_002_MISMATCH\\fig_q1_alignment_mismatch.png",
+      "bytes": 2259260,
+      "sha256": "7cb2a16e8765278d52018bfda0cee508c1dc2f03c699d6c1f723eaa75ae025aa"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_DELIVERY_20260923_002_MISMATCH\\fig_q1_alignment_mismatch.svg",
+      "bytes": 2338656,
+      "sha256": "7f021c314deff1aa6356831fb4268ed627dd78488507fecf17cd3e5a6dac04fd"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_DELIVERY_20260923_002_MISMATCH_REPEAT\\fig_q1_alignment_mismatch.png",
+      "bytes": 2259260,
+      "sha256": "7cb2a16e8765278d52018bfda0cee508c1dc2f03c699d6c1f723eaa75ae025aa"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_DELIVERY_20260923_002_MISMATCH_REPEAT\\fig_q1_alignment_mismatch.svg",
+      "bytes": 2338656,
+      "sha256": "7f021c314deff1aa6356831fb4268ed627dd78488507fecf17cd3e5a6dac04fd"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_DELIVERY_20260923_002_PIPELINE\\fig_q1_pipeline.png",
+      "bytes": 288337,
+      "sha256": "9689289cb36020643028a808c87740a5f1f30c478601f43c126656afc1565681"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_DELIVERY_20260923_002_PIPELINE\\fig_q1_pipeline.svg",
+      "bytes": 7332,
+      "sha256": "04836250e075124b7ce89a2922faeb9f17be6c563a9fcb3f49f0cd1042ed7cb9"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_DELIVERY_20260923_002_PIPELINE_REPEAT\\fig_q1_pipeline.png",
+      "bytes": 288337,
+      "sha256": "9689289cb36020643028a808c87740a5f1f30c478601f43c126656afc1565681"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_DELIVERY_20260923_002_PIPELINE_REPEAT\\fig_q1_pipeline.svg",
+      "bytes": 7332,
+      "sha256": "04836250e075124b7ce89a2922faeb9f17be6c563a9fcb3f49f0cd1042ed7cb9"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_DELIVERY_20260923_002_QUALITY\\fig_q1_full_quality.png",
+      "bytes": 305120,
+      "sha256": "15afd9624103243336db33e6e58c58f1015cd8d17231e0e25f36cd094e46bd35"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_DELIVERY_20260923_002_QUALITY\\fig_q1_full_quality.svg",
+      "bytes": 64945,
+      "sha256": "c7e1c49a43ea44dd9f9cc0ced95140cfb1f9d246b685f1140f02d4e1c3781967"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_DELIVERY_20260923_002_QUALITY_REPEAT\\fig_q1_full_quality.png",
+      "bytes": 305120,
+      "sha256": "15afd9624103243336db33e6e58c58f1015cd8d17231e0e25f36cd094e46bd35"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_DELIVERY_20260923_002_QUALITY_REPEAT\\fig_q1_full_quality.svg",
+      "bytes": 64945,
+      "sha256": "c7e1c49a43ea44dd9f9cc0ced95140cfb1f9d246b685f1140f02d4e1c3781967"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_DELIVERY_20260923_002_TYPICAL\\fig_q1_alignment_typical.png",
+      "bytes": 1648457,
+      "sha256": "ec8c1f64caf89b5b36e5b0feec0be1e85b931d9717f6e7c0cdd80c4ba498a999"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_DELIVERY_20260923_002_TYPICAL\\fig_q1_alignment_typical.svg",
+      "bytes": 1716864,
+      "sha256": "91ed7cdeb64d566f21a2232a3c37cd8251cfc5b6664845efa8067a6b552563a2"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_DELIVERY_20260923_002_TYPICAL_REPEAT\\fig_q1_alignment_typical.png",
+      "bytes": 1648457,
+      "sha256": "ec8c1f64caf89b5b36e5b0feec0be1e85b931d9717f6e7c0cdd80c4ba498a999"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_DELIVERY_20260923_002_TYPICAL_REPEAT\\fig_q1_alignment_typical.svg",
+      "bytes": 1716864,
+      "sha256": "91ed7cdeb64d566f21a2232a3c37cd8251cfc5b6664845efa8067a6b552563a2"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_DELIVERY_20260923_002_VISUAL\\fig_q1_visual_quality.png",
+      "bytes": 1578182,
+      "sha256": "7745a909a4910d36f0f8dfefd6298ad89e61a1314a3210c71b75310662426b6e"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_DELIVERY_20260923_002_VISUAL\\fig_q1_visual_quality.svg",
+      "bytes": 1816296,
+      "sha256": "d9d380757390245b833ef3e8026a9adb7deeb4ee32bdc8256fd9aa77e03fcbbf"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_DELIVERY_20260923_002_VISUAL_REPEAT\\fig_q1_visual_quality.png",
+      "bytes": 1578182,
+      "sha256": "7745a909a4910d36f0f8dfefd6298ad89e61a1314a3210c71b75310662426b6e"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_DELIVERY_20260923_002_VISUAL_REPEAT\\fig_q1_visual_quality.svg",
+      "bytes": 1816296,
+      "sha256": "d9d380757390245b833ef3e8026a9adb7deeb4ee32bdc8256fd9aa77e03fcbbf"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_QUALITY_FIG_20260923_001\\fig_q1_quality.png",
+      "bytes": 150221,
+      "sha256": "fdd92d4fb0f70aff5ff735a919eec501241bebefb185fec8e2efb17c531fdd6c"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_QUALITY_FIG_20260923_001\\fig_q1_quality.svg",
+      "bytes": 13937,
+      "sha256": "3e8d7aa3d3a075318f197bfcc77aa46d702f41d41fd9286eec88dc835e6031d6"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_QUALITY_VERIFY_20260923_001_QUALITY\\fig_q1_quality.png",
+      "bytes": 150221,
+      "sha256": "fdd92d4fb0f70aff5ff735a919eec501241bebefb185fec8e2efb17c531fdd6c"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_QUALITY_VERIFY_20260923_001_QUALITY\\fig_q1_quality.svg",
+      "bytes": 13937,
+      "sha256": "3e8d7aa3d3a075318f197bfcc77aa46d702f41d41fd9286eec88dc835e6031d6"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_QUALITY_VERIFY_20260923_001_SUPPORT\\fig_q1_support.png",
+      "bytes": 284212,
+      "sha256": "b903394235daf296417000517ae470e36e0060be60b75de7a504f10df6c569ab"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_QUALITY_VERIFY_20260923_001_SUPPORT\\fig_q1_support.svg",
+      "bytes": 27309,
+      "sha256": "bc3903950bd8856dbb5edab53efe86f21c36b28b206fd68d5f5c8267e5650dd4"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_QUALITY_VERIFY_20260923_002_QUALITY\\fig_q1_quality.png",
+      "bytes": 150221,
+      "sha256": "fdd92d4fb0f70aff5ff735a919eec501241bebefb185fec8e2efb17c531fdd6c"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_QUALITY_VERIFY_20260923_002_QUALITY\\fig_q1_quality.svg",
+      "bytes": 13937,
+      "sha256": "3e8d7aa3d3a075318f197bfcc77aa46d702f41d41fd9286eec88dc835e6031d6"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_QUALITY_VERIFY_20260923_002_SUPPORT\\fig_q1_support.png",
+      "bytes": 284212,
+      "sha256": "b903394235daf296417000517ae470e36e0060be60b75de7a504f10df6c569ab"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_QUALITY_VERIFY_20260923_002_SUPPORT\\fig_q1_support.svg",
+      "bytes": 27309,
+      "sha256": "bc3903950bd8856dbb5edab53efe86f21c36b28b206fd68d5f5c8267e5650dd4"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_SUPPORT_FIG_20260923_001\\fig_q1_support.png",
+      "bytes": 284212,
+      "sha256": "b903394235daf296417000517ae470e36e0060be60b75de7a504f10df6c569ab"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q1\\P1_SUPPORT_FIG_20260923_001\\fig_q1_support.svg",
+      "bytes": 27309,
+      "sha256": "bc3903950bd8856dbb5edab53efe86f21c36b28b206fd68d5f5c8267e5650dd4"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_DELIVERY_20260924_001_ABLATION\\p2_ablation.png",
+      "bytes": 292984,
+      "sha256": "e2194ce439ad5eb940ff590206e6696f3c41c80f271ae39a979acaacda4a6f8d"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_DELIVERY_20260924_001_ABLATION\\p2_ablation.svg",
+      "bytes": 49531,
+      "sha256": "757071e68f872f2fd6174f3321aae8b42d692349ee04d5de5e88c5032d1e53e1"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_DELIVERY_20260924_001_CONFUSION\\p2_confusion.png",
+      "bytes": 290110,
+      "sha256": "47f0004adcadaf9aa2652aab96187516cab4845c7fcb975243fcc033238596f5"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_DELIVERY_20260924_001_CONFUSION\\p2_confusion.svg",
+      "bytes": 40769,
+      "sha256": "36a82c845c66f3911b2c0a3826cf209d88070a4aa09718a927e3ccbf0c00976c"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_DELIVERY_20260924_001_F1\\p2_robustness_f1.png",
+      "bytes": 501331,
+      "sha256": "ebca56c4fdc624ec94b7b8454f384fd4b883a297807c9f34ba3a3a3f6720a218"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_DELIVERY_20260924_001_F1\\p2_robustness_f1.svg",
+      "bytes": 107333,
+      "sha256": "e38e4a18748930a02461f4e0bb1dfc5cf4daff721ab85e5c0e78187a361ca2d8"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_DELIVERY_20260924_001_MAE\\p2_robustness_mae.png",
+      "bytes": 465088,
+      "sha256": "084154b71279f80f49f7f51ba1a455aa6c1e06be57b38ecc8f8cb9510d9176d6"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_DELIVERY_20260924_001_MAE\\p2_robustness_mae.svg",
+      "bytes": 104559,
+      "sha256": "12f9f528200350b58ff855a0e8da3f42da9e56f88ee6bcbdb331cf774acf988b"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_DELIVERY_20260924_002_REGRESSION\\p2_regression.png",
+      "bytes": 660842,
+      "sha256": "8f58b0bb2e61cabf18b7d9deb7187cafbbbd942168af753a1b6581946a04c902"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_DELIVERY_20260924_002_REGRESSION\\p2_regression.svg",
+      "bytes": 518363,
+      "sha256": "f7999d607cbdd6cb2cb4c75ed80d38b3dbcbe4ab440137a42798976f2c8f5158"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_FINAL_TEST_20260925_001\\test_confusion_and_classes.png",
+      "bytes": 112299,
+      "sha256": "9a8a8d763c6d0d196cb3645bacead7e5a2d53ebb51438bb624bfe95272ad8a70"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_FINAL_TEST_20260925_001\\test_confusion_and_classes.svg",
+      "bytes": 29168,
+      "sha256": "aad1e5944854f8d92f02502a62ad3a4ea6d0101d73eb799f3d28bdace038edc3"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_FINAL_TEST_20260925_001\\test_regression.png",
+      "bytes": 178673,
+      "sha256": "6ee13ef6e13b4c8e1eb876e14f680ac9c52fdc6107ce831ed8448e69e7018ae2"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_FINAL_TEST_20260925_001\\test_regression.svg",
+      "bytes": 135502,
+      "sha256": "57117c8220cb1483cb573d1ad59318c4af94e6d3bd30638ad0498ce30c21f631"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_FINAL_TEST_20260925_001\\test_robustness.png",
+      "bytes": 398517,
+      "sha256": "787ca47e78bb3149573e8a3c70ffe591a5fa65252c538403d69dfaf7e0fe9086"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_FINAL_TEST_20260925_001\\test_robustness.svg",
+      "bytes": 116022,
+      "sha256": "f88b01ca7ec138ed6fea23ebb82074e7e3792291d5a5898979b1a7faf9a07b52"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_FINAL_TEST_20260925_001\\validation_test_metrics.png",
+      "bytes": 119589,
+      "sha256": "8769a7119eba4061442d41fa9baeed4a8ff74f1d33a92f0684d6ec80e8d698e7"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_FINAL_TEST_20260925_001\\validation_test_metrics.svg",
+      "bytes": 33644,
+      "sha256": "6e853a4b91bae8c52fb8adf81efe77d19ab225e7e16127038870801f70ac2dd4"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_RESULTS_VERIFY_20260924_001_REPEAT_ABLATION\\p2_ablation.png",
+      "bytes": 292984,
+      "sha256": "e2194ce439ad5eb940ff590206e6696f3c41c80f271ae39a979acaacda4a6f8d"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_RESULTS_VERIFY_20260924_001_REPEAT_ABLATION\\p2_ablation.svg",
+      "bytes": 49531,
+      "sha256": "757071e68f872f2fd6174f3321aae8b42d692349ee04d5de5e88c5032d1e53e1"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_RESULTS_VERIFY_20260924_001_REPEAT_CONFUSION\\p2_confusion.png",
+      "bytes": 290110,
+      "sha256": "47f0004adcadaf9aa2652aab96187516cab4845c7fcb975243fcc033238596f5"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_RESULTS_VERIFY_20260924_001_REPEAT_CONFUSION\\p2_confusion.svg",
+      "bytes": 40769,
+      "sha256": "36a82c845c66f3911b2c0a3826cf209d88070a4aa09718a927e3ccbf0c00976c"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_RESULTS_VERIFY_20260924_001_REPEAT_F1\\p2_robustness_f1.png",
+      "bytes": 501331,
+      "sha256": "ebca56c4fdc624ec94b7b8454f384fd4b883a297807c9f34ba3a3a3f6720a218"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_RESULTS_VERIFY_20260924_001_REPEAT_F1\\p2_robustness_f1.svg",
+      "bytes": 107333,
+      "sha256": "e38e4a18748930a02461f4e0bb1dfc5cf4daff721ab85e5c0e78187a361ca2d8"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_RESULTS_VERIFY_20260924_001_REPEAT_MAE\\p2_robustness_mae.png",
+      "bytes": 465088,
+      "sha256": "084154b71279f80f49f7f51ba1a455aa6c1e06be57b38ecc8f8cb9510d9176d6"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_RESULTS_VERIFY_20260924_001_REPEAT_MAE\\p2_robustness_mae.svg",
+      "bytes": 104559,
+      "sha256": "12f9f528200350b58ff855a0e8da3f42da9e56f88ee6bcbdb331cf774acf988b"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_RESULTS_VERIFY_20260924_001_REPEAT_REGRESSION\\p2_regression.png",
+      "bytes": 660842,
+      "sha256": "8f58b0bb2e61cabf18b7d9deb7187cafbbbd942168af753a1b6581946a04c902"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q2\\P2_RESULTS_VERIFY_20260924_001_REPEAT_REGRESSION\\p2_regression.svg",
+      "bytes": 518363,
+      "sha256": "f7999d607cbdd6cb2cb4c75ed80d38b3dbcbe4ab440137a42798976f2c8f5158"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_001\\explanation_cards\\01.png",
+      "bytes": 375788,
+      "sha256": "ea117d548bc8fdeff964907430601670395579eaca3185e9c849a8c238ae4895"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_001\\explanation_cards\\01.svg",
+      "bytes": 39591,
+      "sha256": "a5b41f40edf26982e99ef96a219d3579a30fece0498de3e0e10dead49ced4208"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_001\\explanation_cards\\02.png",
+      "bytes": 353538,
+      "sha256": "52f738fb5f7b2dbae02d2cfd85505ca5dc23e6e8b76e56bc751b3f7d70570bfa"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_001\\explanation_cards\\02.svg",
+      "bytes": 38780,
+      "sha256": "6888e13b57f0b635f28a77c11e4323e5ced084139f889db3e2ee28281572211e"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\01.png",
+      "bytes": 368663,
+      "sha256": "36c99e3047af55f929ba4152e9f0d070bc3a3f1b6d1fb20c2af4ae8486e416ad"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\01.svg",
+      "bytes": 34554,
+      "sha256": "cf38ff503e573511e1575a8ce856b569179d2cf586639cec56f8341668879d10"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\02.png",
+      "bytes": 347089,
+      "sha256": "aa85b7a937f2792bfc8ee2e52f1f3c5b41083063ccf6bf01db0d2f021bfe6903"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\02.svg",
+      "bytes": 33731,
+      "sha256": "920441c11b413f0315c7cc9095d6d6ef2c87e736b709da0cfcfcf461044e30be"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\03.png",
+      "bytes": 369657,
+      "sha256": "2afeca0113bc8d07aaaeb2950cc557ac0b9c4ea06eea3d9d1cc34e54ce1ead73"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\03.svg",
+      "bytes": 35950,
+      "sha256": "8c82665f7935c712293bffb551a1019d842571cf9e3261de3b0b8ccaa91c08a5"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\04.png",
+      "bytes": 369237,
+      "sha256": "bcc552dbadeae321d4fec14ab302769176fa08f9b9d10c17eddf7496795a35bb"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\04.svg",
+      "bytes": 35083,
+      "sha256": "6801f406ca6b4f2fe31d9f98fcdf97ef4b7a578f00e21409166b46ec7703c77d"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\05.png",
+      "bytes": 356649,
+      "sha256": "b2d021ee83227797f8f59b4eefbb30aa7de13b191507d27f6716fd2c48776450"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\05.svg",
+      "bytes": 33126,
+      "sha256": "015dd8ffc44fb679e4342d243fe4a746b64120688eec924780d56ba3d9995040"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\06.png",
+      "bytes": 377992,
+      "sha256": "e76d97043bac59b5e7ca2a2a0b5fa678e619f894d95d0fd0d192a07d7402e88f"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\06.svg",
+      "bytes": 35993,
+      "sha256": "df5b870d72b7523bdb4ea45a8f463a9b3d1bb33d27c122680f1f22ebe7294675"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\07.png",
+      "bytes": 402377,
+      "sha256": "b12e67c3687130cd4f368ac451697c40b481799d14a357563ba7cdc5430af0ea"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\07.svg",
+      "bytes": 37467,
+      "sha256": "8c99e302d98118588435cd10e8f2457867b14aa1fae7e6e0389747150f400f45"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\08.png",
+      "bytes": 345060,
+      "sha256": "7e3625a1da24bd2c626bbb3cc26314a871181422a15f24030b44d8fbc1cfdf3d"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\08.svg",
+      "bytes": 32972,
+      "sha256": "7a303089c3ed836fbebeb7ad0008fcb124ec15d0470f19f241f9727678e5aea7"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\09.png",
+      "bytes": 339712,
+      "sha256": "700eb105da2ed216d40c6a9c2e89b00e8d71b75c7b2dee317cc87aa94b137506"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\09.svg",
+      "bytes": 33693,
+      "sha256": "cdbe5d862fab36e881ae36b40a0a1671d0a8c241895e32012a1f428efcb24906"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\10.png",
+      "bytes": 362657,
+      "sha256": "d14219f585f9d9151a2718b326ac5ef7b771d70dfd8b8175a443bb3b9376e5b1"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\10.svg",
+      "bytes": 35174,
+      "sha256": "e7d7bbb28a1682258e930e90f6593a7e884e441ed9be7463b37147afb00d9091"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\11.png",
+      "bytes": 342752,
+      "sha256": "9ddb10f53e2b7e886f1a90f2ffc1d13e98e0c21df081d035b542d290b297e51f"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\11.svg",
+      "bytes": 33010,
+      "sha256": "005e66b7763a3ddd8cce6001122936aab0f268fcc34cc32920a9e3496c3490f7"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\12.png",
+      "bytes": 386127,
+      "sha256": "b9c29496f8621132e05c756f9f0f89f13facbd1c61b1dd259ec774f14b412e07"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\12.svg",
+      "bytes": 36705,
+      "sha256": "032b8c1faa4d26e157601357d34a6dd8e9dbee2361a6181029531db78cfa8720"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\13.png",
+      "bytes": 374138,
+      "sha256": "f7a84d42e7c849150b26f7b74ac863b014c7e565dd47b480639126b21a23d328"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\13.svg",
+      "bytes": 34929,
+      "sha256": "d9d0803c709b1d61be008d55bb851479948cc87b2fd68d8d3bf3be66f438634a"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\14.png",
+      "bytes": 384124,
+      "sha256": "e41ed1ab84d401a604886fb3bceca185b0eb1e56211449578a99b150ed8eb4fe"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\14.svg",
+      "bytes": 35955,
+      "sha256": "c3286244278c49e4ec6147aad59944b9c47ab6b8723af55972af1cb542aeb3de"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\15.png",
+      "bytes": 346864,
+      "sha256": "81c9bc99d5edd93d76acf22c9bb96552042f673341e61f32cd659f202f0692e3"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\15.svg",
+      "bytes": 34172,
+      "sha256": "a080683012b18a69ad064fb150279cde67e78857c448d45143cc45151bddc0fc"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\16.png",
+      "bytes": 337610,
+      "sha256": "b6ce04053c1fa13183631fe9a8dd8342bb482d9ba542d448ea2612269004d175"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\16.svg",
+      "bytes": 32992,
+      "sha256": "ada2565d204392b396a328f9b7ad479a6fd1fb8c430c754150437d7d765448e6"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\17.png",
+      "bytes": 353374,
+      "sha256": "19f1e9cb4dfca949817fcf96ba8cadba01b7c95ec3e26521cbbb9f654f5df535"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\17.svg",
+      "bytes": 34446,
+      "sha256": "622464e4e8d77dec670b7e63abc2c09fd53ee3bafc4c1f03dbefe0d5b6906737"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\18.png",
+      "bytes": 398444,
+      "sha256": "e33b4834a7ad721738776b64d049e664fa28b76729e6a47431e1793237821404"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\18.svg",
+      "bytes": 37435,
+      "sha256": "8ade681e3a9c7723823abfcdf3cb1bc2acf106fe3f5561738a6eeea7ed225aed"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\19.png",
+      "bytes": 384469,
+      "sha256": "04a88da5c834ba66440e5d1782e9b6d1913ed7c868e67c5323b535c89082cc0e"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\19.svg",
+      "bytes": 36536,
+      "sha256": "3ffd9d7c8782d382d1348d71750d6771a218164a25793695c347ebf8e85df64a"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\20.png",
+      "bytes": 374357,
+      "sha256": "60e58c4172bcc57f6496491bc12d3f440754f9d3a66c94f834368e23633a7515"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\explanation_cards\\20.svg",
+      "bytes": 36923,
+      "sha256": "aec4d7cd1cdce3692bc1e6b9f16da2853e546f4ef42f6ae27bf351f5c993bb5f"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\p3_case_cards.png",
+      "bytes": 434567,
+      "sha256": "a5b91200f000daaa1d8b7ef7bf4e6de51cffeacf072b53d4c44c1bc899e1695f"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\p3_case_cards.svg",
+      "bytes": 38587,
+      "sha256": "9c3e3f1ac28bc7503aca754fe1457b1311a10c44e5e12b0a7f524e39de440309"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\p3_local_importance.png",
+      "bytes": 294596,
+      "sha256": "676de37e715d00b708d727ea95eac6000877d6f1e9a70d50afce574881511b86"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\p3_local_importance.svg",
+      "bytes": 56457,
+      "sha256": "9e8892f2be6ce9a0a16abcd00e0cad11b2ee85d0f71eaf98a6a150bcb1e45885"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\p3_modality_effects.png",
+      "bytes": 194633,
+      "sha256": "e05e2aeca1b41e4c757d732344aa4bddfbee8478001ad8e3f8af796505c97476"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_002\\p3_modality_effects.svg",
+      "bytes": 48568,
+      "sha256": "b08fb72b3b84b4b86f6e434ec90611d577d82a35128e5fe059afc3f8968cc9bb"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\01.png",
+      "bytes": 368663,
+      "sha256": "36c99e3047af55f929ba4152e9f0d070bc3a3f1b6d1fb20c2af4ae8486e416ad"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\01.svg",
+      "bytes": 33918,
+      "sha256": "1672dc9e85ef8bdba7b251724a6806ac81ad66a57a83ced492af021cf2058eea"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\02.png",
+      "bytes": 347089,
+      "sha256": "aa85b7a937f2792bfc8ee2e52f1f3c5b41083063ccf6bf01db0d2f021bfe6903"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\02.svg",
+      "bytes": 33106,
+      "sha256": "72a60d50336134e3e3edce6a2a5f2050ee49f6fc1e290d600721ccbc19d86c05"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\03.png",
+      "bytes": 369657,
+      "sha256": "2afeca0113bc8d07aaaeb2950cc557ac0b9c4ea06eea3d9d1cc34e54ce1ead73"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\03.svg",
+      "bytes": 35294,
+      "sha256": "df6b73a2046d0e8803a9c799407b387a1c9a1b90c7001944fa35069534c129cd"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\04.png",
+      "bytes": 369237,
+      "sha256": "bcc552dbadeae321d4fec14ab302769176fa08f9b9d10c17eddf7496795a35bb"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\04.svg",
+      "bytes": 34438,
+      "sha256": "8169382a7f2ff2541d9f460e191fc49563b646d9523026707e3248e7dba90d7e"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\05.png",
+      "bytes": 356649,
+      "sha256": "b2d021ee83227797f8f59b4eefbb30aa7de13b191507d27f6716fd2c48776450"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\05.svg",
+      "bytes": 32511,
+      "sha256": "29d7ac89a204e69291289500ef44e93b58f175e366a5e89924212345ca8985af"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\06.png",
+      "bytes": 377992,
+      "sha256": "e76d97043bac59b5e7ca2a2a0b5fa678e619f894d95d0fd0d192a07d7402e88f"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\06.svg",
+      "bytes": 35337,
+      "sha256": "65522c161e45c9a3cf41a3d7a4df279b02608f5edf96b5c3c846b02342f4b6c7"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\07.png",
+      "bytes": 402377,
+      "sha256": "b12e67c3687130cd4f368ac451697c40b481799d14a357563ba7cdc5430af0ea"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\07.svg",
+      "bytes": 36781,
+      "sha256": "a2c0648b39d1f66261429703d5a4dc3dd92140f747b93838a62b70432de1cd4b"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\08.png",
+      "bytes": 345060,
+      "sha256": "7e3625a1da24bd2c626bbb3cc26314a871181422a15f24030b44d8fbc1cfdf3d"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\08.svg",
+      "bytes": 32357,
+      "sha256": "01e20d5459fcaebb55f0fcf3926509d1b3f371dd5d2b0827148bba24b93541f9"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\09.png",
+      "bytes": 339712,
+      "sha256": "700eb105da2ed216d40c6a9c2e89b00e8d71b75c7b2dee317cc87aa94b137506"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\09.svg",
+      "bytes": 33068,
+      "sha256": "1d2bde902c044d5b8a7cea295ec12af6ad3ad5655c49153a79d7b73ac9f37378"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\10.png",
+      "bytes": 362657,
+      "sha256": "d14219f585f9d9151a2718b326ac5ef7b771d70dfd8b8175a443bb3b9376e5b1"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\10.svg",
+      "bytes": 34529,
+      "sha256": "ce00f977a2f1abbd6da2bcb9f15b85a2ccc00982033414dc26c67e46a433845a"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\11.png",
+      "bytes": 342752,
+      "sha256": "9ddb10f53e2b7e886f1a90f2ffc1d13e98e0c21df081d035b542d290b297e51f"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\11.svg",
+      "bytes": 32395,
+      "sha256": "80d8d29c74e46e1d18ec304606dbd0cf579a98ff3e0d93f8f5ebe5db3ae0f8aa"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\12.png",
+      "bytes": 386127,
+      "sha256": "b9c29496f8621132e05c756f9f0f89f13facbd1c61b1dd259ec774f14b412e07"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\12.svg",
+      "bytes": 36029,
+      "sha256": "ff85e10f5f35cd0bb2c38e5fd34a0ed5ab92c1e082b6e7f4897b9d0abed57d9a"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\13.png",
+      "bytes": 374138,
+      "sha256": "f7a84d42e7c849150b26f7b74ac863b014c7e565dd47b480639126b21a23d328"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\13.svg",
+      "bytes": 34284,
+      "sha256": "64ccafb8dc13012adaff983f44a528dc3652e0872181f93ba5a0e1c073d1505f"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\14.png",
+      "bytes": 384124,
+      "sha256": "e41ed1ab84d401a604886fb3bceca185b0eb1e56211449578a99b150ed8eb4fe"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\14.svg",
+      "bytes": 35299,
+      "sha256": "46aaef37aafa1006a8e9b4719d3eb05785495de97cb4a0c195fe4bef13aa1621"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\15.png",
+      "bytes": 346864,
+      "sha256": "81c9bc99d5edd93d76acf22c9bb96552042f673341e61f32cd659f202f0692e3"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\15.svg",
+      "bytes": 33537,
+      "sha256": "7b5cd5627deccf39bc66b3158fce49dd48c670d859906d0124ac07460be50217"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\16.png",
+      "bytes": 337610,
+      "sha256": "b6ce04053c1fa13183631fe9a8dd8342bb482d9ba542d448ea2612269004d175"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\16.svg",
+      "bytes": 32377,
+      "sha256": "e600ffaa3b6f653b055912f7fa2bced06711e7d058289dd776ad0ca77a676f5c"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\17.png",
+      "bytes": 353374,
+      "sha256": "19f1e9cb4dfca949817fcf96ba8cadba01b7c95ec3e26521cbbb9f654f5df535"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\17.svg",
+      "bytes": 33811,
+      "sha256": "2d5f08939f842ae1686a38d9eb3e891f452bfe15d58f057903767de9941da191"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\18.png",
+      "bytes": 398444,
+      "sha256": "e33b4834a7ad721738776b64d049e664fa28b76729e6a47431e1793237821404"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\18.svg",
+      "bytes": 36749,
+      "sha256": "d994d1d75baedeb156430474286f75f556883eb5c7cd74cbf23a101a67b8f89e"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\19.png",
+      "bytes": 384469,
+      "sha256": "04a88da5c834ba66440e5d1782e9b6d1913ed7c868e67c5323b535c89082cc0e"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\19.svg",
+      "bytes": 35870,
+      "sha256": "1eebc66117adf5d56d0ccaf2aa032222aa77c0391f6320b29cb3ae550455a1ce"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\20.png",
+      "bytes": 374357,
+      "sha256": "60e58c4172bcc57f6496491bc12d3f440754f9d3a66c94f834368e23633a7515"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\explanation_cards\\20.svg",
+      "bytes": 36247,
+      "sha256": "73da65bc3a623a68934e289fd8305874db143139b9438189813097bd01cf7d85"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\p3_case_cards.png",
+      "bytes": 437432,
+      "sha256": "9be749550fb5bbf79717c24a9a9ae4ff2672fe99e860c041f40e2b7ce83e65c3"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\p3_case_cards.svg",
+      "bytes": 37776,
+      "sha256": "7d1ff7de318c26bc58f8abf818672f475878744cc79ec7e3807b702674484afc"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\p3_local_importance.png",
+      "bytes": 294596,
+      "sha256": "676de37e715d00b708d727ea95eac6000877d6f1e9a70d50afce574881511b86"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\p3_local_importance.svg",
+      "bytes": 55710,
+      "sha256": "83a442665e416e38fd5c5008a54926d64619021d84c6c81d1705cc397f9a813c"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\p3_modality_effects.png",
+      "bytes": 194633,
+      "sha256": "e05e2aeca1b41e4c757d732344aa4bddfbee8478001ad8e3f8af796505c97476"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_A4_FIGURES_20260924_003\\p3_modality_effects.svg",
+      "bytes": 46995,
+      "sha256": "4215a85e0afe95d4e8d6ef491ec98c596258ebb34af7367fec2ff5367830a506"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_VALID60_FIGURES_20260924_001\\p3_fidelity.png",
+      "bytes": 298995,
+      "sha256": "1609390b91e019fb91923c144b9b3d63c2f51711701714f87a9743d2f6402d20"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_VALID60_FIGURES_20260924_001\\p3_fidelity.svg",
+      "bytes": 45138,
+      "sha256": "dc72416fd0e9e7fac516628c2557804f3b1e5438fa6178dea000ee94e2c5cc9e"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_VALID60_FIGURES_20260924_001\\p3_stability.png",
+      "bytes": 164111,
+      "sha256": "1f5182ebeb3ba1ff3f8a5daf76385e5dd733d5c3cb3a333da3f195690f85d29c"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\q3\\P3_VALID60_FIGURES_20260924_001\\p3_stability.svg",
+      "bytes": 10301,
+      "sha256": "91875627f753c33a1a678e15746f7ad0752ba00b22b32cbb7737329269c8353f"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\technical_routes\\TECH_ROUTES_20260925_001\\overall_technical_route.png",
+      "bytes": 891687,
+      "sha256": "9ced325a18d29d5aaafe5021c75107b905db1f945d18a4cf30f23485520c2139"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\technical_routes\\TECH_ROUTES_20260925_001\\overall_technical_route.svg",
+      "bytes": 32780,
+      "sha256": "a802b2969f54ee6deda63a4d78e9f99f6adca99066a191a78e02afe99dc776e6"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\technical_routes\\TECH_ROUTES_20260925_001\\q1_technical_route.png",
+      "bytes": 710675,
+      "sha256": "abca922abc8aa6a10595bd0e526f7094caabf62b0b90553245c3715dd570a896"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\technical_routes\\TECH_ROUTES_20260925_001\\q1_technical_route.svg",
+      "bytes": 27278,
+      "sha256": "037b60170ccc782cb3e085d8d1526c8a92adef8cf7e9bc74061675d798532f9f"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\technical_routes\\TECH_ROUTES_20260925_001\\q2_technical_route.png",
+      "bytes": 960290,
+      "sha256": "d74661754c6967d55a6bc3e50b5c2cc49c5ba7aa23b25c6c05c49d36ffbb5786"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\technical_routes\\TECH_ROUTES_20260925_001\\q2_technical_route.svg",
+      "bytes": 36199,
+      "sha256": "1ac288bf0857ca8fbb32bd8a4888a6e23d167d773e4122c5f23a08739d1c5e39"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\technical_routes\\TECH_ROUTES_20260925_001\\q3_technical_route.png",
+      "bytes": 1046042,
+      "sha256": "329987159d9deb5421291311d0fa9dd64db5b1f5cefa55444406fa879b376f1a"
+    },
+    {
+      "path": "D:\\个人资料\\数学建模比赛\\E题解答\\figures\\technical_routes\\TECH_ROUTES_20260925_001\\q3_technical_route.svg",
+      "bytes": 33689,
+      "sha256": "b27c7fef18bfd35dbc45781fd50c0a57174f67cac597d8dfdf8ab302f9d7ab42"
+    }
+  ],
+  "scope": "drawing_saved_results_only_no_training_inference_or_alignment"
+}

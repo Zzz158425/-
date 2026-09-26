@@ -1,0 +1,29 @@
+{
+  "source": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\q2_experiments\\P2_RATIO_SWEEP_PLOTDATA_20260926_001\\plot_data.json",
+  "source_sha256": "4cb614361e6e234d963cbd06a476e4487825b5f1bc7759df57350b9c576e9227",
+  "script": "D:\\Visual Studio2022SharedProject\\E题解答\\code\\figures\\fig_q2_ratio_drop.py",
+  "script_sha256": "1e7dbdce75f9edaff4278da9cc553ea431244277c95ceccc8468af3303507e9c",
+  "common_sha256": "e0abdd16c21d54b0eca66a350bd608c31d42c08ae98e7d0ba649947d55e13784",
+  "image": "D:\\Visual Studio2022SharedProject\\E题解答\\figures\\q2\\P2_RATIO_DROP_20260926_001\\p2_ratio_drop_both.png",
+  "image_sha256": "7d66fa6b6d9abaabd4ac0c176da08d740c315190fa502ac1d16cb6d8dca2d3e0",
+  "svg": "D:\\Visual Studio2022SharedProject\\E题解答\\figures\\q2\\P2_RATIO_DROP_20260926_001\\p2_ratio_drop_both.svg",
+  "svg_sha256": "99631d8553ea8b03e2d4dfe03e24b80845c72c9b6a1b77ba3cf9dd1b998349e0",
+  "svg_text_editable": true,
+  "dpi": 300,
+  "text_outside_canvas": [],
+  "details": {
+    "definition": "per-scenario metric mean minus control metric mean",
+    "delta_sign": {
+      "macro_f1": "negative means performance loss",
+      "mae": "positive means error increase"
+    },
+    "seed_aggregation": "mean of three per-seed metrics; not ensemble",
+    "population": 728
+  },
+  "overlap_with_frozen_analysis": {
+    "rows_compared": 129,
+    "max_delta": 0.0,
+    "reference": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\q2\\P2_ANALYSIS_20260924_001\\scenario_metrics.csv",
+    "seed": "20260924"
+  }
+}

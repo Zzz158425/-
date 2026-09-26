@@ -1,0 +1,33 @@
+{
+  "source": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\q2\\P2_ANALYSIS_20260924_001\\plot_data.json",
+  "source_sha256": "8d0b50c38a9bb6bc823fd706119a05362b6d9535f4f07d09aafc689bb2307e90",
+  "script": "D:\\Visual Studio2022SharedProject\\E题解答\\code\\figures\\fig_q2_control_performance.py",
+  "script_sha256": "8b2542ae2ddd9be574da6618b1b1679067c8a78b5032c69228c20bf4122d51ef",
+  "common_sha256": "5b9628db552baf89f6e5b1afbd69559405ad929667a708a9aeca2efb032124f2",
+  "image": "D:\\Visual Studio2022SharedProject\\E题解答\\figures\\q2\\P2_CONTROL_PERFORMANCE_20260926_001\\p2_control_performance.png",
+  "image_sha256": "4289c2edc3a8710160b1de18c5e6e2654a475d4c1a8b76cd6e36a8817b397de9",
+  "svg": "D:\\Visual Studio2022SharedProject\\E题解答\\figures\\q2\\P2_CONTROL_PERFORMANCE_20260926_001\\p2_control_performance.svg",
+  "svg_sha256": "f6996940cfc3f21e681a303cf3df75b50a9eb842a6555399fbbd02454e827d43",
+  "svg_text_editable": true,
+  "dpi": 300,
+  "text_outside_canvas": [],
+  "details": {
+    "confusion_scenario": "control",
+    "confusion_model": "M3 seed 20260924",
+    "confusion_samples": 728,
+    "right_models": [
+      "B0",
+      "M3",
+      "M3_20260925",
+      "M3_20260926"
+    ],
+    "right_metrics": [
+      "clean_accuracy",
+      "clean_macro_f1",
+      "clean_weighted_f1"
+    ],
+    "m3_macro_f1_sample_sd": 0.0313201136082663,
+    "random_baseline": 0.3333333333333333,
+    "confusion_source": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\q2\\P2_ANALYSIS_20260924_001\\confusion_matrices.csv"
+  }
+}

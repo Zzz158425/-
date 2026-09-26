@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="468pt" viewBox="0 0 792 468" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 468 
+L 792 468 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <g id="patch_2">
+     <path d="M 294.8 90.101875 
+L 497.2 90.101875 
+L 497.2 49.608125 
+L 294.8 49.608125 
+z
+" style="fill: #e7edf1; stroke: #77838c; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 11px; font-family: 'SimHei'" transform="translate(302.5 67.534687)">原100条ID、文本、全部标签与只读MP4</text>
+    <text style="font-size: 11px; font-family: 'SimHei'" transform="translate(305.25 80.081562)">来源哈希 + 默认编辑列表 + 原生PTS</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 394.036853 96.567586 
+Q 267.600273 119.91995 142.48302 143.028638 
+" style="fill: none; stroke: #56616c; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 146.779741 144.268877 
+L 142.48302 143.028638 
+L 146.053243 140.335405 
+" style="fill: none; stroke: #56616c; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 396 98.205374 
+Q 396 119.920591 396 140.294167 
+" style="fill: none; stroke: #56616c; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 398 136.294167 
+L 396 140.294167 
+L 394 136.294167 
+" style="fill: none; stroke: #56616c; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 397.963147 96.567586 
+Q 524.399727 119.91995 649.51698 143.028638 
+" style="fill: none; stroke: #56616c; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 645.946757 140.335405 
+L 649.51698 143.028638 
+L 645.220259 144.268877 
+" style="fill: none; stroke: #56616c; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_2">
+    <g id="patch_6">
+     <path d="M 90.25 190.231875 
+L 188.15 190.231875 
+L 188.15 149.738125 
+L 90.25 149.738125 
+z
+" style="fill: #dfeaf0; stroke: #77838c; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 11px; font-family: 'SimHei'" transform="translate(100.7 167.664687)">原文字符offset</text>
+    <text style="font-size: 11px; font-family: 'SimHei'" transform="translate(97.95 180.211562)">冻结BERT：768维</text>
+   </g>
+   <g id="text_3">
+    <g id="patch_7">
+     <path d="M 330.55 190.231875 
+L 461.45 190.231875 
+L 461.45 149.738125 
+L 330.55 149.738125 
+z
+" style="fill: #f3e8d8; stroke: #77838c; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 11px; font-family: 'SimHei'" transform="translate(338.25 167.664687)">实际音频：16kHz单声道</text>
+    <text style="font-size: 11px; font-family: 'SimHei'" transform="translate(341 180.211562)">eGeMAPSv02 LLD：25维</text>
+   </g>
+   <g id="text_4">
+    <g id="patch_8">
+     <path d="M 590.1 190.231875 
+L 715.5 190.231875 
+L 715.5 149.738125 
+L 590.1 149.738125 
+z
+" style="fill: #e0ede6; stroke: #77838c; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 11px; font-family: 'SimHei'" transform="translate(617.05 167.664687)">真实PTS解码帧</text>
+    <text style="font-size: 11px; font-family: 'SimHei'" transform="translate(597.8 180.211562)">OpenFace CECLM：25维</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 396 203.607304 
+Q 396 221.367833 396 237.786721 
+" style="fill: none; stroke: #56616c; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 398 233.786721 
+L 396 237.786721 
+L 394 233.786721 
+" style="fill: none; stroke: #56616c; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <g id="patch_10">
+     <path d="M 311.3 285.156328 
+L 480.7 285.156328 
+L 480.7 244.533672 
+L 311.3 244.533672 
+z
+" style="fill: #ece5f1; stroke: #77838c; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 11px; font-family: 'SimHei'" transform="translate(346.5 262.460234)">原文条件式强制对齐</text>
+    <text style="font-size: 11px; font-family: 'SimHei'" transform="translate(319 275.007109)">WhisperX：候选区间，不改原文</text>
+   </g>
+   <g id="patch_11">
+    <path d="M 139.2 203.603283 
+Q 139.2 267.479315 139.2 330.013707 
+" style="fill: none; stroke: #56616c; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 141.2 326.013707 
+L 139.2 330.013707 
+L 137.2 326.013707 
+" style="fill: none; stroke: #56616c; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 652.8 203.603283 
+Q 652.8 267.479315 652.8 330.013707 
+" style="fill: none; stroke: #56616c; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 654.8 326.013707 
+L 652.8 330.013707 
+L 650.8 326.013707 
+" style="fill: none; stroke: #56616c; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 396 295.832304 
+Q 396 313.592833 396 330.011721 
+" style="fill: none; stroke: #56616c; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 398 326.011721 
+L 396 330.011721 
+L 394 326.011721 
+" style="fill: none; stroke: #56616c; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_6">
+    <g id="patch_14">
+     <path d="M 292.05 379.951875 
+L 499.95 379.951875 
+L 499.95 339.458125 
+L 292.05 339.458125 
+z
+" style="fill: #e7edf1; stroke: #77838c; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 11px; font-family: 'SimHei'" transform="translate(299.75 357.384687)">区间重叠加权聚合 + 原始三模态全保留</text>
+    <text style="font-size: 11px; font-family: 'SimHei'" transform="translate(302.5 369.931562)">768/25/25维变长视图 + 逐词来源索引</text>
+   </g>
+   <g id="patch_15">
+    <path d="M 396 393.327947 
+Q 396 408.45594 396 422.242291 
+" style="fill: none; stroke: #56616c; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 398 418.242291 
+L 396 422.242291 
+L 394 418.242291 
+" style="fill: none; stroke: #56616c; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_7">
+    <g id="patch_16">
+     <path d="M 215.05 455.644 
+L 576.95 455.644 
+L 576.95 429.244 
+L 215.05 429.244 
+z
+" style="fill: #f1e5e4; stroke: #77838c; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 11px; font-family: 'SimHei'; text-anchor: middle" x="396" y="446.397125" transform="rotate(-0 396 446.397125)">质量独立记录：可用性 / 未定位 / 自然零 / 对应未知或有证据不匹配</text>
+   </g>
+  </g>
+  <g id="text_8">
+   <text style="font-size: 14px; font-family: 'SimHei'; text-anchor: middle" x="396" y="21.39125" transform="rotate(-0 396 21.39125)">问题1实际流程：P1_D016_V1</text>
+  </g>
+ </g>
+</svg>

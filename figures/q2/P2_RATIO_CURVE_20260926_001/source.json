@@ -1,0 +1,43 @@
+{
+  "source": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\q2_experiments\\P2_RATIO_SWEEP_PLOTDATA_20260926_001\\plot_data.json",
+  "source_sha256": "4cb614361e6e234d963cbd06a476e4487825b5f1bc7759df57350b9c576e9227",
+  "script": "D:\\Visual Studio2022SharedProject\\E题解答\\code\\figures\\fig_q2_ratio_curve.py",
+  "script_sha256": "35339ddd8cab98c5d52b40e174db021d1838eb40e9781fdac05eee44c2c91f2b",
+  "common_sha256": "e0abdd16c21d54b0eca66a350bd608c31d42c08ae98e7d0ba649947d55e13784",
+  "image": "D:\\Visual Studio2022SharedProject\\E题解答\\figures\\q2\\P2_RATIO_CURVE_20260926_001\\p2_ratio_curve_both.png",
+  "image_sha256": "c565a728b0944a9622446e6757e97450a3ce5c35c72a1648905ce166cf54919e",
+  "svg": "D:\\Visual Studio2022SharedProject\\E题解答\\figures\\q2\\P2_RATIO_CURVE_20260926_001\\p2_ratio_curve_both.svg",
+  "svg_sha256": "6254fbe9552780307d5d03da206fa78352d7067c994c57a54041421d81636b95",
+  "svg_text_editable": true,
+  "dpi": 300,
+  "text_outside_canvas": [],
+  "details": {
+    "panel_left": "macro_f1",
+    "panel_right": "mae",
+    "position_aggregation": "arithmetic mean of start/middle/end",
+    "seed_aggregation": "mean of three per-seed metrics; not ensemble",
+    "registered_ratios": [
+      0.2,
+      0.5
+    ],
+    "extended_ratios": [
+      10,
+      30,
+      40,
+      60,
+      70,
+      80
+    ],
+    "control": {
+      "macro_f1": 0.5723228772121547,
+      "mae": 0.5903141910029871
+    },
+    "population": 728
+  },
+  "overlap_with_frozen_analysis": {
+    "rows_compared": 129,
+    "max_delta": 0.0,
+    "reference": "D:\\Visual Studio2022SharedProject\\E题解答\\output\\q2\\P2_ANALYSIS_20260924_001\\scenario_metrics.csv",
+    "seed": "20260924"
+  }
+}
